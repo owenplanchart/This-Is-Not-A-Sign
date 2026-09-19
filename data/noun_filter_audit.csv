@@ -1,0 +1,1755 @@
+word,decision,reason_or_evidence
+BAAL,exclude,no clear singular countable sense (heuristic)
+BABA,exclude,no clear singular countable sense (heuristic)
+BABE,keep,09827683: a very young child (birth to 1 year) who has not yet begun to walk or talk
+BABU,exclude,no clear singular countable sense (heuristic)
+BABY,keep,00796767: a project of personal concern to someone
+BACH,exclude,no clear singular countable sense (heuristic)
+BACK,keep,02767433: a support that you can lean against while sitting
+BADE,exclude,no clear singular countable sense (heuristic)
+BAHT,exclude,no clear singular countable sense (heuristic)
+BAIL,exclude,no clear singular countable sense (heuristic)
+BAIT,exclude,no clear singular countable sense (heuristic)
+BAKU,exclude,no clear singular countable sense (heuristic)
+BALE,keep,02778456: a large bundle bound for storage or transport
+BALI,exclude,no clear singular countable sense (heuristic)
+BALK,keep,00107279: an illegal pitching motion while runners are on base
+BALL,keep,00107400: a pitch that is not in the strike zone
+BALM,exclude,no clear singular countable sense (heuristic)
+BAND,keep,02784218: a thin flat strip of flexible material that is worn around the body or one of the limbs (especially to decorate the body)
+BANE,exclude,no clear singular countable sense (heuristic)
+BANG,keep,00064504: a conspicuous success
+BANK,keep,00169305: a flight maneuver
+BARB,keep,02790322: a subsidiary point facing opposite from the main point that makes an arrowhead or spear hard to remove
+BARD,keep,02792305: an ornamental caparison for a horse
+BARI,exclude,no clear singular countable sense (heuristic)
+BARK,keep,02793199: a sailing ship with 3 (or more) masts
+BARM,exclude,no clear singular countable sense (heuristic)
+BARN,keep,02793495: an outlying farm building for storing grain or animal feed and housing farm animals
+BASE,keep,02797692: a support or foundation
+BASH,keep,07410207: a vigorous blow
+BASS,keep,02565573: nontechnical name for any of numerous edible marine and freshwater spiny-finned fishes
+BAST,exclude,no clear singular countable sense (heuristic)
+BATH,keep,02806530: a vessel containing liquid in which something is immersed (as to process it or to maintain it at a constant temperature or to lubricate it)
+BAUD,exclude,no clear singular countable sense (heuristic)
+BAWD,keep,10485440: a woman who engages in sexual intercourse for money
+BAYA,keep,01543175: common Indian weaverbird
+BEAD,keep,02815071: a small ball with a hole through the middle
+BEAK,keep,01758308: horny projecting mouth of a bird
+BEAM,keep,02777292: a gymnastic apparatus used by women gymnasts
+BEAN,exclude,no clear singular countable sense (heuristic)
+BEAR,keep,02131653: massive plantigrade carnivorous or omnivorous mammals with long shaggy coats and strong claws
+BEAT,keep,00547616: a stroke or blow
+BEAU,keep,09871364: a man who is the lover of a girl or young woman
+BECK,keep,06877008: a beckoning gesture
+BEEF,keep,02404186: cattle that are reared for their meat
+BEER,exclude,no clear singular countable sense (heuristic)
+BEET,exclude,no clear singular countable sense (heuristic)
+BELL,keep,02824448: a hollow device made of metal that makes a ringing sound when struck
+BELT,keep,02827606: a band to tie or buckle around the body (usually at the waist)
+BEMA,exclude,no clear singular countable sense (heuristic)
+BEND,keep,13869327: a circular segment of a curve
+BENT,keep,05624254: a special way of doing something
+BERG,keep,09308572: a large mass of ice floating at sea
+BERM,keep,04206948: a narrow edge of land (usually unpaved) along the side of a road
+BEST,exclude,no clear singular countable sense (heuristic)
+BETA,exclude,no clear singular countable sense (heuristic)
+BETH,exclude,no clear singular countable sense (heuristic)
+BEVY,keep,07991579: a flock of birds (especially when gathered close together on the ground)
+BIAS,keep,06201908: a partiality that prevents objective consideration of an issue or situation
+BIER,keep,02836268: a stand to support a corpse or a coffin prior to burial
+BIFF,exclude,no clear singular countable sense (heuristic)
+BIKE,keep,02834778: a wheeled vehicle that has two wheels and is moved by foot pedals
+BILE,exclude,no clear singular countable sense (heuristic)
+BILL,keep,01758308: horny projecting mouth of a bird
+BIND,exclude,no clear singular countable sense (heuristic)
+BINE,exclude,no clear singular countable sense (heuristic)
+BIRD,keep,01503061: warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings
+BIRR,exclude,no clear singular countable sense (heuristic)
+BITE,keep,00361041: a portion removed from the whole
+BITT,keep,02864593: a strong post (as on a wharf or quay or ship for attaching mooring lines)
+BLAH,exclude,no clear singular countable sense (heuristic)
+BLEB,exclude,no clear singular countable sense (heuristic)
+BLIP,keep,07263358: a radar echo displayed so as to show the position of a reflecting surface
+BLOB,keep,13910019: an indistinct shapeless form
+BLOC,keep,08171094: a group of countries in special alliance
+BLOT,keep,00072261: an act that brings discredit to the person who does it
+BLOW,keep,01173038: a powerful stroke with the fist or a weapon
+BLUE,exclude,no clear singular countable sense (heuristic)
+BLUR,keep,05940414: a hazy or indistinct representation
+BOAR,keep,02396014: an uncastrated male hog
+BOAT,keep,02858304: a small vessel for travel on water
+BOCK,exclude,no clear singular countable sense (heuristic)
+BODY,keep,04261506: a resonating chamber in a musical instrument (as the body of a violin)
+BOGY,keep,02863638: an unidentified (and possibly enemy) aircraft
+BOIL,keep,14183210: a painful sore with a hard core filled with pus
+BOLA,keep,02864342: a rope with weights attached to the ends
+BOLD,keep,06827219: a typeface with thick heavy lines
+BOLE,exclude,no clear singular countable sense (heuristic)
+BOLL,exclude,no clear singular countable sense (heuristic)
+BOLO,keep,02865351: a cord fastened around the neck with an ornamental clasp and worn as a necktie
+BOLT,keep,00204943: a sudden abandonment (as from a political party)
+BOMB,keep,02866578: an explosive device fused to explode under specific conditions
+BOND,keep,02755352: a connection that fastens things together
+BONE,keep,04961331: a shade of white the color of bleached bones
+BONG,keep,07376454: a dull resonant sound as of a bell
+BOOB,keep,10039391: an ignorant or foolish person
+BOOK,keep,02870526: a number of sheets (ticket or stamps etc.) bound together on one edge
+BOOM,keep,02871824: a pole carrying an overhead microphone projected over a film or tv set
+BOON,keep,14474264: a desirable state
+BOOR,keep,10410815: a crude uncouth ill-bred person lacking culture or refinement
+BOOT,keep,00422261: a form of foot torture in which the feet are encased in iron and slowly crushed
+BORE,keep,02875233: a hole or passage made by a drill
+BORN,exclude,no clear singular countable sense (heuristic)
+BOSE,exclude,no clear singular countable sense (heuristic)
+BOSH,exclude,no clear singular countable sense (heuristic)
+BOSK,keep,08438840: a small wooded area
+BOSS,keep,03626115: a circular rounded projection or protuberance
+BOTA,keep,02876457: a wine bottle made of leather
+BOUT,keep,00510723: an occasion for excessive eating or drinking
+BOWL,keep,02880940: a dish that is round and open at the top for serving foods
+BOZO,keep,10153414: an informal term for a youth or man
+BRAD,keep,02888817: a small nail
+BRAE,keep,09228055: a slope or hillside
+BRAG,keep,07229747: an instance of boastful talk
+BRAN,exclude,no clear singular countable sense (heuristic)
+BRAT,keep,10702483: a very troublesome child
+BRAY,exclude,no clear singular countable sense (heuristic)
+BREW,exclude,no clear singular countable sense (heuristic)
+BRIG,keep,02901259: a penal institution (especially on board a ship)
+BRIM,keep,02902079: a circular projection that sticks outward from the crown of a hat
+BRIT,keep,01996895: minute crustaceans forming food for right whales
+BROW,exclude,no clear singular countable sense (heuristic)
+BUBO,keep,14315722: a lymph node that is inflamed and swollen because of plague or gonorrhea or tuberculosis
+BUCK,keep,01888264: mature male of various mammals (especially deer or antelope)
+BUFF,keep,02910964: an implement consisting of soft material mounted on a block
+BUFO,exclude,no clear singular countable sense (heuristic)
+BUHL,keep,02878628: an inlaid furniture decoration
+BULB,keep,02915480: a rounded part of a cylindrical instrument (usually at one end)
+BULK,exclude,no clear singular countable sense (heuristic)
+BULL,keep,00075790: a serious and ludicrous blunder
+BUMP,keep,07338681: an impact (as from a collision)
+BUNA,exclude,no clear singular countable sense (heuristic)
+BUNG,keep,02919648: a plug used to close a hole in a barrel or flask
+BUNK,keep,02831724: a bed on a ship or train
+BUNT,exclude,no clear singular countable sense (heuristic)
+BUOY,exclude,no clear singular countable sense (heuristic)
+BURG,exclude,no clear singular countable sense (heuristic)
+BURL,keep,13166044: a large rounded outgrowth on the trunk or branch of a tree
+BURN,keep,04694090: a place or area that has been burned (especially on a person's body)
+BURP,keep,00117578: a reflex that expels gas noisily from the stomach through the mouth
+BURR,exclude,no clear singular countable sense (heuristic)
+BURT,exclude,no clear singular countable sense (heuristic)
+BUSH,keep,08505018: a large wilderness area
+BUSS,exclude,no clear singular countable sense (heuristic)
+BUST,keep,00510723: an occasion for excessive eating or drinking
+BUTT,keep,02927608: a large cask (especially one holding a volume equivalent to 2 hogsheads or 126 gallons)
+BUZZ,keep,01260008: a confusion of activity and gossip
+BYRE,keep,03123809: a barn for cows
+CAGE,keep,02811059: a movable screen placed behind home base to catch balls during batting practice
+CAIN,exclude,no clear singular countable sense (heuristic)
+CAKE,keep,02937469: a block of solid substance (such as soap or wax)
+CALF,keep,01887896: young of domestic cattle
+CALK,keep,02940143: a metal cleat on the bottom front of a horseshoe to prevent slipping
+CALL,keep,01055493: a visit in an official or professional capacity
+CALM,exclude,no clear singular countable sense (heuristic)
+CALX,exclude,no clear singular countable sense (heuristic)
+CAMP,keep,02945379: a penal institution (often for forced labor)
+CANE,keep,02949084: a stiff switch used to hit students as punishment
+CANT,keep,07157273: a characteristic language of a particular group (as among thieves)
+CAPE,keep,02955767: a sleeveless garment like a cloak but shorter
+CARD,keep,03033986: a printed circuit that can be inserted into expansion slots in a computer to increase the computer's capabilities
+CARE,keep,07505047: a cause for feeling concern
+CARP,exclude,no clear singular countable sense (heuristic)
+CART,keep,02970849: a heavy open wagon usually having two wheels and drawn by an animal
+CASE,keep,01182654: a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy
+CASH,exclude,no clear singular countable sense (heuristic)
+CASK,keep,02795169: a cylindrical container that holds liquids
+CAST,keep,00105479: a violent throw
+CAUL,exclude,no clear singular countable sense (heuristic)
+CAVE,keep,09238926: a geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea
+CAVY,keep,02364520: short-tailed rough-haired South American rodent
+CELL,keep,02991048: a device that delivers an electric current as the result of a chemical reaction
+CELT,exclude,no clear singular countable sense (heuristic)
+CENT,keep,13390626: a coin worth one-hundredth of the value of the basic unit
+CERE,keep,"01758637: the fleshy, waxy covering at the base of the upper beak of some birds"
+CERO,keep,02625851: large mackerel with long pointed snout
+CHAD,exclude,no clear singular countable sense (heuristic)
+CHAP,keep,09241929: a crack in a lip caused usually by cold
+CHAR,keep,09911226: a human female employed to do housework
+CHAT,keep,01560636: songbirds having a chattering call
+CHAW,keep,07579399: a wad of something chewable as tobacco
+CHEF,keep,09963574: a professional cook
+CHEW,keep,07579399: a wad of something chewable as tobacco
+CHIC,exclude,no clear singular countable sense (heuristic)
+CHIN,exclude,no clear singular countable sense (heuristic)
+CHIP,keep,03020416: a small disk-shaped counter used to represent money when gambling
+CHIT,keep,09919451: a dismissive term for a girl who is immature or who lacks respect
+CHOP,keep,00129317: a grounder that bounces high in the air
+CHOW,keep,02112137: breed of medium-sized dogs with a thick coat and fluffy curled tails and distinctive blue-black tongues
+CHUB,keep,01441272: European freshwater game fish with a thick spindle-shaped body
+CHUG,exclude,no clear singular countable sense (heuristic)
+CHUM,keep,02536685: a large Pacific salmon with small spots on its back
+CITE,keep,06763681: a short note recognizing a source of information or of a quoted passage
+CITY,keep,08524735: a large and densely populated urban area
+CIVE,exclude,no clear singular countable sense (heuristic)
+CLAM,keep,01956481: burrowing marine mollusk living on sand or mud
+CLAN,exclude,no clear singular countable sense (heuristic)
+CLAP,keep,07376257: a sudden very loud noise
+CLAW,keep,02154742: a bird's foot
+CLAY,exclude,no clear singular countable sense (heuristic)
+CLEF,keep,06862562: a musical notation written on a staff indicating the pitch of the notes following it
+CLEG,keep,02195526: large swift fly the female of which sucks blood of various animals
+CLEW,keep,07961379: a ball of yarn or cord or thread
+CLIP,keep,00133234: a sharp slanting blow
+CLIT,keep,05523420: a female sexual organ homologous to the penis
+CLOD,keep,07961016: a compact mass
+CLOG,keep,00530208: a dance performed while wearing shoes with wooden soles
+CLOP,exclude,no clear singular countable sense (heuristic)
+CLOT,keep,05402091: a lump of material formed from the content of a liquid
+CLUB,keep,02931417: a spot that is open late at night and that provides entertainment (as singers or dancers) as well as dancing and food and drink
+CLUE,keep,06802785: a slight indication
+COAL,keep,09273130: a hot fragment of wood or coal that is left from a fire and is glowing or smoldering
+COAT,keep,01898731: growth of hair or wool or fur covering the body of an animal
+COAX,keep,03059366: a transmission line for high-frequency signals
+COCA,keep,12690046: a South American shrub whose leaves are chewed by natives of the Andes
+COCK,keep,01514668: adult male bird
+COCO,exclude,no clear singular countable sense (heuristic)
+CODA,exclude,no clear singular countable sense (heuristic)
+CODE,keep,06353934: a coding system used for transmitting messages requiring brevity or secrecy
+COHO,exclude,no clear singular countable sense (heuristic)
+COIF,keep,03065243: a skullcap worn by nuns under a veil or by soldiers under a hood of mail or formerly by British sergeants-at-law
+COIL,keep,03065424: a structure consisting of something wound in a continuous series of loops
+COIN,keep,13388245: a flat metal piece (usually a disc) used as money
+COIR,exclude,no clear singular countable sense (heuristic)
+COKE,exclude,no clear singular countable sense (heuristic)
+COLA,exclude,irregular plural form
+COLD,keep,14145501: a mild viral infection involving the nose and respiratory passages (but not the lungs)
+COLE,keep,11876976: a hardy cabbage with coarse curly leaves that do not form a head
+COLT,keep,02376791: a young male horse under the age of four
+COMA,keep,05680193: a state of deep and often prolonged unconsciousness
+COMB,keep,01792255: the fleshy red crest on the head of the domestic fowl and other gallinaceous birds
+COME,exclude,no clear singular countable sense (heuristic)
+CONE,keep,05456257: a visual receptor cell in the retina that is sensitive to bright light and to color
+CONK,exclude,no clear singular countable sense (heuristic)
+CONY,exclude,no clear singular countable sense (heuristic)
+COOK,keep,09963320: someone who cooks food
+COOL,exclude,no clear singular countable sense (heuristic)
+COON,keep,02508213: North American raccoon
+COOP,keep,02936714: an enclosure made or wire or metal bars in which birds or animals can be kept
+COOT,keep,02018027: slate-black slow-flying birds somewhat resembling ducks
+COPE,keep,03103904: a long cloak
+COPY,keep,03104594: a thing made to be similar or identical to another thing
+CORA,exclude,no clear singular countable sense (heuristic)
+CORD,keep,03106110: a line made of twisted fibers or threads
+CORE,keep,03107716: a bar of magnetic material (as soft iron) that passes through a coil and serves to increase the inductance of the coil
+CORK,keep,02860063: a small float usually made of cork
+CORM,exclude,no clear singular countable sense (heuristic)
+CORN,keep,14364802: a hard thickening of the skin (especially on the top or sides of the toes) caused by the pressure of ill-fitting shoes
+CORP,keep,08059412: a business firm whose articles of incorporation have been approved in some state
+COSH,keep,02847461: a piece of metal covered by leather with a flexible handle
+COSS,exclude,no clear singular countable sense (heuristic)
+COST,exclude,no clear singular countable sense (heuristic)
+COSY,keep,03114379: a padded cloth covering to keep a teapot warm
+COTE,keep,03114634: a small shelter for domestic animals (as sheep or pigeons)
+COUE,exclude,no clear singular countable sense (heuristic)
+COUP,keep,00065336: a brilliant and notable success
+COVE,keep,09257761: a small inlet
+COWL,keep,03124474: a loose hood or hooded robe (as worn by a monk)
+COXA,exclude,no clear singular countable sense (heuristic)
+COZY,keep,03114379: a padded cloth covering to keep a teapot warm
+CRAB,keep,00445529: a stroke of the oar that either misses the water or digs too deeply
+CRAG,keep,09259025: a steep rugged rock or cliff
+CRAN,keep,13616688: a capacity unit used for measuring fresh herring
+CRAP,exclude,no clear singular countable sense (heuristic)
+CRAW,keep,01974055: a pouch in many birds and some lower animals that resembles a stomach for storage and preliminary maceration of food
+CREE,exclude,no clear singular countable sense (heuristic)
+CREW,keep,08242799: an organized group of workmen
+CRIB,keep,00491901: a card game (usually for two players) in which each player is dealt six cards and discards one or two
+CROP,keep,01974055: a pouch in many birds and some lower animals that resembles a stomach for storage and preliminary maceration of food
+CROW,keep,01579028: black birds having a raucous call
+CRUS,exclude,no clear singular countable sense (heuristic)
+CRUX,exclude,no clear singular countable sense (heuristic)
+CUBE,keep,03144592: a block in the (approximate) shape of a cube
+CUFF,exclude,no clear singular countable sense (heuristic)
+CUKE,exclude,no clear singular countable sense (heuristic)
+CULL,exclude,no clear singular countable sense (heuristic)
+CULM,exclude,no clear singular countable sense (heuristic)
+CULT,keep,05751173: an interest followed with exaggerated zeal
+CURB,keep,03148920: an edge between a sidewalk and a roadway consisting of a line of curbstones (usually forming part of a gutter)
+CURD,exclude,no clear singular countable sense (heuristic)
+CURE,exclude,no clear singular countable sense (heuristic)
+CURL,keep,05257737: a strand or cluster of hair
+CUSK,keep,02523427: elongate freshwater cod of northern Europe and Asia and North America having barbels around its mouth
+CUSP,keep,05389625: a thin triangular flap of a heart valve
+CUSS,keep,09908025: a boy or man
+CYAN,keep,04968619: a primary subtractive color for light
+CYMA,exclude,no clear singular countable sense (heuristic)
+CYME,exclude,no clear singular countable sense (heuristic)
+CYST,keep,05517578: a small anatomically normal sac or bladderlike structure (especially one containing fluid)
+CZAR,keep,09987161: a person having great power
+DACE,keep,01441117: small European freshwater fish with a slender bluish-green body
+DADA,keep,08466412: a nihilistic art movement (especially in painting) that flourished in Europe early in the 20th century
+DADO,keep,03158542: a rectangular groove cut into a board so that another piece can fit into it
+DAIS,exclude,possible plural or plural-only form
+DALE,keep,09262690: an open river valley (in a hilly area)
+DALI,exclude,no clear singular countable sense (heuristic)
+DAMA,exclude,no clear singular countable sense (heuristic)
+DAME,keep,09989290: a woman of refinement
+DAMN,exclude,no clear singular countable sense (heuristic)
+DAMP,keep,14535905: a slight wetness
+DARE,keep,07231532: a challenge to do something dangerous or foolhardy
+DARI,exclude,no clear singular countable sense (heuristic)
+DARK,keep,05988498: an unenlightened state
+DARN,exclude,no clear singular countable sense (heuristic)
+DART,keep,00334356: a sudden quick movement
+DASH,keep,00294452: a quick run
+DATA,exclude,irregular plural form
+DATE,keep,08385009: a meeting arranged in advance
+DAUB,keep,03164532: an unskillful painting
+DAVY,exclude,no clear singular countable sense (heuristic)
+DAWN,keep,15267945: an opening time period
+DAYS,exclude,possible plural or plural-only form
+DAZE,exclude,no clear singular countable sense (heuristic)
+DEAD,keep,15123362: a time when coldness (or some other quality associated with death) is intense
+DEAF,exclude,no clear singular countable sense (heuristic)
+DEAL,keep,01110274: a particular instance of buying or selling
+DEAN,keep,09996784: an administrator in charge of a division of a university or college
+DEAR,keep,09849598: a beloved person
+DEBT,keep,06773347: an obligation to pay or do something
+DECK,keep,03168107: a porch that resembles the deck on a ship
+DEED,keep,06545137: a legal document signed and sealed and delivered to effect a transfer of property and to show the legal right to possess it
+DEEP,keep,09461315: a long steep-sided depression in the ocean floor
+DEER,keep,02430045: distinguished from Bovidae by the male's having solid deciduous antlers
+DELF,keep,03173142: an excavation
+DELL,keep,09264599: a small wooded hollow
+DENT,keep,04693384: an impression in a surface (as made by a blow)
+DESK,keep,03179701: a piece of furniture with a writing surface and usually drawers or other compartments
+DHAK,exclude,no clear singular countable sense (heuristic)
+DHOW,keep,03186285: a lateen-rigged sailing vessel used by Arabs
+DIAL,keep,03186818: a disc on a telephone that is rotated a fixed distance for each number called
+DIBS,exclude,possible plural or plural-only form
+DICE,exclude,irregular plural form
+DICK,keep,10011785: someone who is a detective
+DIET,keep,"08318777: a legislative assembly in certain countries (e.g., Japan)"
+DIGS,exclude,possible plural or plural-only form
+DIKA,exclude,no clear singular countable sense (heuristic)
+DIKE,keep,03160309: a barrier constructed to contain the flow of water or to keep out the sea
+DILL,exclude,no clear singular countable sense (heuristic)
+DIME,keep,13390040: a United States coin worth one tenth of a dollar
+DING,keep,04693384: an impression in a surface (as made by a blow)
+DINK,keep,00567280: a soft return so that the tennis ball drops abruptly after crossing the net
+DINT,exclude,no clear singular countable sense (heuristic)
+DIOL,exclude,no clear singular countable sense (heuristic)
+DIRK,keep,03205458: a relatively long dagger with a straight blade
+DIRT,exclude,no clear singular countable sense (heuristic)
+DISC,keep,03208556: a flat circular plate
+DISH,keep,00432881: an activity that you like or at which you are superior
+DISK,keep,03208556: a flat circular plate
+DITA,exclude,no clear singular countable sense (heuristic)
+DIVA,keep,10471732: a distinguished female operatic singer
+DIVE,exclude,irregular plural form
+DOCK,keep,02158066: a short or shortened tail of certain animals
+DODO,keep,01811243: extinct heavy flightless bird of Mauritius related to pigeons
+DOER,keep,09767197: a person who acts and gets things done
+DOGE,exclude,no clear singular countable sense (heuristic)
+DOGY,keep,02403920: motherless calf in a range herd of cattle
+DOLE,keep,13285855: a share of money or food or clothing that has been charitably given
+DOLL,keep,03219135: a small replica of a person
+DOLT,keep,10667187: a person who is not very bright
+DOME,keep,03220513: a hemispherical roof
+DONG,exclude,no clear singular countable sense (heuristic)
+DOOB,exclude,no clear singular countable sense (heuristic)
+DOOM,keep,07334206: an unpleasant or disastrous destiny
+DOOR,keep,03221720: a swinging or sliding barrier that will close the entrance to a room or building or vehicle
+DOPA,exclude,no clear singular countable sense (heuristic)
+DOPE,keep,10039391: an ignorant or foolish person
+DORM,keep,03224893: a college or university building containing living quarters for students
+DORY,keep,01452798: marine fishes widely distributed in mid-waters and deep slope waters
+DOSE,keep,14133159: a communicable infection transmitted by sexual intercourse or genital contact
+DOVE,keep,06881494: an emblem of peace
+DOWN,exclude,no clear singular countable sense (heuristic)
+DOXY,keep,09952393: a woman who cohabits with an important man
+DOZE,keep,00858849: a light fitful sleep
+DRAB,keep,04974463: a dull greyish to yellowish or light olive brown
+DRAG,keep,00837675: a slow inhalation (as of tobacco smoke)
+DRAM,keep,13722340: a unit of apothecary weight equal to an eighth of an ounce or to 60 grains
+DRAW,keep,00572285: a golf shot that curves to the left for a right-handed golfer
+DRAY,keep,03235979: a low heavy horse cart without sides
+DREG,keep,13772971: a small amount of residue
+DREW,exclude,no clear singular countable sense (heuristic)
+DRIB,keep,13771404: a small indefinite quantity (especially of a liquid)
+DRIP,exclude,no clear singular countable sense (heuristic)
+DROP,keep,03246052: a central depository where things can be left or picked up
+DRUG,exclude,no clear singular countable sense (heuristic)
+DRUM,keep,02890351: a hollow cast-iron cylinder attached to the wheel that forms part of the brakes
+DUAD,exclude,no clear singular countable sense (heuristic)
+DUCK,keep,03253071: a heavy cotton fabric of plain weave
+DUCT,keep,03253398: an enclosed conduit for a fluid
+DUDE,keep,09991026: a man who is much concerned with his dress and appearance
+DUEL,keep,01172784: a prearranged fight with deadly weapons by two people (accompanied by seconds) in order to settle a quarrel over a point of honor
+DUET,keep,07041451: a musical composition for two performers
+DUFF,exclude,no clear singular countable sense (heuristic)
+DUKE,keep,10038620: a British peer of the highest rank
+DUMA,exclude,no clear singular countable sense (heuristic)
+DUMP,keep,03255790: a place where supplies can be stored
+DUNE,keep,09270735: a ridge of sand created by the wind
+DUNG,exclude,no clear singular countable sense (heuristic)
+DUNK,keep,00110554: a basketball shot in which the basketball is propelled downward into the basket
+DUPE,keep,10752480: a person who is tricked or swindled
+DURA,exclude,no clear singular countable sense (heuristic)
+DUSK,exclude,no clear singular countable sense (heuristic)
+DUST,exclude,no clear singular countable sense (heuristic)
+DUTY,keep,13315999: a government tax on imports or exports
+DYAD,exclude,no clear singular countable sense (heuristic)
+DYER,keep,10040515: someone whose job is to dye cloth
+DYKE,keep,03160309: a barrier constructed to contain the flow of water or to keep out the sea
+DYNE,keep,13647498: a unit of force equal to the force that imparts an acceleration of 1 cm/sec/sec to a mass of 1 gram
+FACE,keep,03313456: a vertical surface of a building or cliff
+FACT,keep,05817396: a piece of information about circumstances that exist or events that have occurred
+FADE,keep,00572043: a golf shot that curves to the right for a right-handed golfer
+FAIR,keep,00519333: a traveling show
+FAKE,keep,10201535: a person who makes deceitful pretenses
+FALL,keep,00076884: a sudden drop from an upright position
+FAME,exclude,no clear singular countable sense (heuristic)
+FANG,keep,01465472: hollow or grooved tooth of a venomous snake
+FARE,keep,05911124: an agenda of things to do
+FARM,exclude,no clear singular countable sense (heuristic)
+FARO,keep,00492724: a card game in which players bet against the dealer on the cards he will draw from a dealing box
+FAST,exclude,no clear singular countable sense (heuristic)
+FATE,keep,07330007: an event (or a course of events) that will inevitably happen in the future
+FAUN,exclude,no clear singular countable sense (heuristic)
+FAWN,keep,02430830: a young deer
+FEAR,keep,07519253: an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
+FEAT,keep,00036762: a notable achievement
+FEED,exclude,no clear singular countable sense (heuristic)
+FEEL,keep,04946553: a property perceived by touch
+FELL,exclude,no clear singular countable sense (heuristic)
+FELT,keep,03326795: a fabric made of compressed matted animal fibers
+FERN,exclude,no clear singular countable sense (heuristic)
+FESS,exclude,no clear singular countable sense (heuristic)
+FEUD,keep,01236173: a bitter quarrel between two parties
+FIAT,keep,06539770: a legally binding command or decision entered on the court record (as if issued by a court or judge)
+FICE,keep,02085019: a nervous belligerent little mongrel dog
+FIFE,keep,03334492: a small high-pitched flute similar to a piccolo
+FIFO,exclude,no clear singular countable sense (heuristic)
+FILE,keep,03336839: a steel hand tool with small sharp teeth on some or all of its surfaces
+FILL,keep,13580723: a quantity sufficient to satisfy
+FILM,keep,03338648: a thin coating or layer
+FILS,exclude,possible plural or plural-only form
+FIND,keep,05808218: a productive insight
+FINE,exclude,no clear singular countable sense (heuristic)
+FINK,keep,10091012: someone acting as an informer or decoy for the police
+FIRE,keep,03343560: a fireplace in which a relatively small fire is burning
+FIRM,exclude,no clear singular countable sense (heuristic)
+FISC,keep,13358360: a state treasury or exchequer or a royal treasury
+FISH,exclude,no clear singular countable sense (heuristic)
+FIST,keep,05565064: a hand with the fingers clenched in the palm (as for hitting)
+FIVE,keep,08079852: a team that plays basketball
+FIZZ,exclude,no clear singular countable sense (heuristic)
+FLAG,keep,02158846: a conspicuously marked or shaped tail
+FLAK,keep,10094782: a slick spokesperson who can turn any criticism to the advantage of their employer
+FLAN,exclude,no clear singular countable sense (heuristic)
+FLAP,keep,03357716: a movable airfoil that is part of an aircraft wing
+FLAT,keep,02726305: a suite of rooms usually on one floor of an apartment house
+FLAW,keep,14463170: an imperfection in a plan or theory or legal document that causes it to fail or that reduces its effectiveness
+FLAX,exclude,no clear singular countable sense (heuristic)
+FLEA,keep,02186153: any wingless bloodsucking parasitic insect noted for ability to leap
+FLEX,exclude,no clear singular countable sense (heuristic)
+FLIP,keep,00439484: an acrobatic feat in which the feet roll over the head (either forward or backward) and return
+FLIT,keep,00168911: a secret move (to avoid paying debts)
+FLOC,exclude,no clear singular countable sense (heuristic)
+FLOE,keep,09309168: a flat mass of ice (smaller than an ice field) floating at sea
+FLOP,keep,07365024: a complete failure
+FLOW,exclude,no clear singular countable sense (heuristic)
+FLUB,keep,00074790: an embarrassing mistake
+FLUE,keep,03368878: a conduit to carry off smoke
+FLUX,keep,07407970: a flow or discharge
+FOAL,keep,02376542: a young horse
+FOAM,keep,09282724: a mass of small bubbles formed in or on a liquid
+FOGY,keep,10022908: someone whose style is out of fashion
+FOIL,keep,03375575: a light slender flexible sword tipped by a button
+FOLD,keep,03376159: a pen for sheep
+FOLK,keep,08372411: a social division of (usually preliterate) people
+FONT,keep,06825399: a specific size and style of type within a type family
+FOOD,exclude,no clear singular countable sense (heuristic)
+FOOL,keep,09921409: a person who is gullible and easy to take advantage of
+FOOT,keep,02153445: the pedal extremity of vertebrates other than human beings
+FORD,keep,09283623: a shallow area in a stream that can be forded
+FORE,exclude,no clear singular countable sense (heuristic)
+FORK,keep,03384167: an agricultural tool used for lifting or digging
+FORM,keep,03384535: a mold for setting concrete
+FORT,keep,03386011: a fortified defensive structure
+FOUL,keep,00770997: an act that violates the rules of a sport
+FOUR,exclude,no clear singular countable sense (heuristic)
+FOWL,keep,01789740: a domesticated gallinaceous bird thought to be descended from the red jungle fowl
+FRAT,keep,08229467: a social club for male undergraduates
+FRAY,keep,01176335: a noisy fight
+FREE,exclude,no clear singular countable sense (heuristic)
+FRET,keep,03396074: a small bar of metal across the fingerboard of a musical instrument
+FROG,keep,03398382: a decorative loop of braid or cord
+FUEL,exclude,no clear singular countable sense (heuristic)
+FUGU,exclude,no clear singular countable sense (heuristic)
+FUJI,exclude,no clear singular countable sense (heuristic)
+FULL,exclude,no clear singular countable sense (heuristic)
+FUME,keep,11508092: a cloud of fine particles suspended in a gas
+FUND,keep,08070850: a financial institution that sells shares to individuals and invests in securities issued by other companies
+FUNK,keep,07063585: an earthy type of jazz combining it with blues and soul
+FURY,keep,07516997: a feeling of intense anger
+FUSE,keep,03407369: an electrical device that can interrupt the flow of electrical current when it is overloaded
+FUSS,keep,00555138: a rapid active commotion
+FUZE,exclude,no clear singular countable sense (heuristic)
+FUZZ,keep,05940414: a hazy or indistinct representation
+GAFF,keep,03410022: an iron hook with a handle
+GAGE,keep,03429288: a measuring instrument for measuring and indicating a quantity such as the thickness of wire or the amount of rain etc.
+GAIN,keep,13754293: a quantity that is added
+GAIT,keep,00286497: a person's manner of walking
+GALA,keep,00518669: a gay festivity
+GALE,keep,11461825: a strong wind moving 45-90 knots
+GALL,keep,07548978: a feeling of deep and bitter anger and ill-will
+GAME,keep,00430606: an amusement or pastime
+GAMP,exclude,no clear singular countable sense (heuristic)
+GANG,keep,08242799: an organized group of workmen
+GAOL,keep,03592245: a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)
+GAPE,keep,00879037: a stare of amazement (usually with the mouth open)
+GARB,exclude,no clear singular countable sense (heuristic)
+GASH,keep,00388065: a strong sweeping cut made with a sharp instrument
+GASP,keep,00837098: a short labored intake of breath with the mouth open
+GATE,keep,03427296: a movable barrier in a fence or wall
+GAUD,exclude,no clear singular countable sense (heuristic)
+GAUR,keep,02410011: wild ox of mountainous areas of eastern India
+GAWK,keep,10274639: an awkward stupid person
+GAZE,keep,00878648: a long fixed look
+GEAN,exclude,no clear singular countable sense (heuristic)
+GEAR,keep,03430551: a toothed wheel that engages another toothed mechanism in order to change the speed or direction of transmitted motion
+GEEK,keep,10042845: a person with an unusual or odd personality
+GELT,exclude,no clear singular countable sense (heuristic)
+GENE,exclude,no clear singular countable sense (heuristic)
+GENS,exclude,possible plural or plural-only form
+GENT,keep,09908025: a boy or man
+GENU,exclude,no clear singular countable sense (heuristic)
+GERM,keep,01384491: a minute life form (especially a disease-causing bacterium)
+GETA,exclude,no clear singular countable sense (heuristic)
+GEUM,exclude,no clear singular countable sense (heuristic)
+GHAT,exclude,no clear singular countable sense (heuristic)
+GHEE,exclude,no clear singular countable sense (heuristic)
+GIBE,keep,06767922: an aggressive remark directed at a person like a missile and intended to have a telling effect
+GIFT,exclude,no clear singular countable sense (heuristic)
+GILD,keep,08227214: a formal association of people with similar interests
+GILL,keep,02510769: respiratory organ of aquatic animals that breathe oxygen dissolved in water
+GILT,keep,03437430: a coating of gold or of something that looks like gold
+GIMP,exclude,no clear singular countable sense (heuristic)
+GIRL,keep,09992837: a female human offspring
+GIRO,keep,08055321: a British financial system in which a bank or a post office transfers money from one account to another when they receive authorization to do so
+GISH,exclude,no clear singular countable sense (heuristic)
+GIST,exclude,no clear singular countable sense (heuristic)
+GIVE,exclude,no clear singular countable sense (heuristic)
+GLAD,exclude,no clear singular countable sense (heuristic)
+GLEE,exclude,no clear singular countable sense (heuristic)
+GLEN,keep,09289596: a narrow secluded valley (in the mountains)
+GLIA,exclude,no clear singular countable sense (heuristic)
+GLOP,exclude,no clear singular countable sense (heuristic)
+GLOW,keep,04954534: an appearance of reflected light
+GLUE,exclude,no clear singular countable sense (heuristic)
+GLUT,exclude,no clear singular countable sense (heuristic)
+GNAT,keep,02200630: (British usage) mosquito
+GOAD,keep,04007664: a pointed instrument that is used to prod into a state of motion
+GOAL,keep,00187337: a successful attempt at scoring
+GOAT,keep,09884666: a victim of ridicule or pranks
+GOBI,exclude,no clear singular countable sense (heuristic)
+GOBY,exclude,no clear singular countable sense (heuristic)
+GOER,keep,10004539: someone who leaves
+GOLD,keep,04966240: a deep yellow color
+GOLF,keep,00464894: a game played on a large open course with 9 or 18 holes
+GONG,keep,03017168: a percussion instrument consisting of a set of tuned bells that are struck with a hammer
+GOOD,exclude,no clear singular countable sense (heuristic)
+GOOF,keep,09930876: a person who amuses others by ridiculous behavior
+GOOK,exclude,no clear singular countable sense (heuristic)
+GOON,keep,10184081: an aggressive and violent young criminal
+GORE,keep,03448253: a piece of cloth that is generally triangular or tapering
+GOUT,keep,14188804: a painful inflammation of the big toe and foot caused by defects in uric acid metabolism resulting in deposits of the acid and its salts in the blood and joints
+GOWN,keep,"03450230: a woman's dress, usually with a close-fitting bodice and a long flared skirt, often worn on formal occasions"
+GRAB,keep,03450881: a mechanical device for gripping an object
+GRAD,keep,09786338: a person who has received a degree from a school (high school or college or university)
+GRAM,keep,13723712: a metric unit of weight equal to one thousandth of a kilogram
+GRAY,keep,02381364: horse of a light gray or whitish color
+GREY,keep,02381364: horse of a light gray or whitish color
+GRID,keep,03458422: a cooking utensil of parallel metal bars
+GRIN,keep,06878071: a facial expression characterized by turning up the corners of the mouth
+GRIP,keep,02773838: a portable rectangular container for carrying clothes
+GRIS,exclude,possible plural or plural-only form
+GRIT,exclude,no clear singular countable sense (heuristic)
+GROG,exclude,no clear singular countable sense (heuristic)
+GROT,keep,09294877: a small cave (usually with attractive features)
+GRUB,keep,02312006: a soft thick wormlike larva of certain beetles and other insects
+GUAN,exclude,no clear singular countable sense (heuristic)
+GUAR,exclude,no clear singular countable sense (heuristic)
+GUFF,exclude,no clear singular countable sense (heuristic)
+GUIB,keep,02425228: antelope with white markings like a harness and twisted horns
+GULA,exclude,no clear singular countable sense (heuristic)
+GULF,keep,04753060: an unbridgeable disparity (as from a failure of understanding)
+GULL,keep,02041246: mostly white aquatic bird having long pointed wings and short legs
+GULP,keep,00840189: a large and hurried swallow
+GUNK,exclude,no clear singular countable sense (heuristic)
+GURU,keep,10152616: a Hindu or Buddhist religious leader and spiritual teacher
+GUSH,keep,07014320: an unrestrained expression of emotion
+GUST,keep,11465017: a strong current of air
+GYPS,exclude,possible plural or plural-only form
+GYRE,keep,13875970: a round shape formed by a series of concentric circles (as formed by leaves or flower petals)
+GYRO,exclude,no clear singular countable sense (heuristic)
+HACK,keep,02378969: a saddle horse used for transportation rather than sport etc.
+HADJ,exclude,no clear singular countable sense (heuristic)
+HAEM,exclude,no clear singular countable sense (heuristic)
+HAFT,exclude,no clear singular countable sense (heuristic)
+HAIK,keep,03475421: an outer garment consisting of a large piece of white cloth
+HAIL,exclude,no clear singular countable sense (heuristic)
+HAIR,keep,01900150: a filamentous projection or process on an organism
+HAKE,exclude,no clear singular countable sense (heuristic)
+HALE,exclude,no clear singular countable sense (heuristic)
+HALF,keep,13736799: one of two equal parts of a divisible whole
+HALL,keep,02715513: a large entrance or reception room or area
+HALO,keep,04951716: an indication of radiant light drawn around the head of a saint
+HALS,exclude,possible plural or plural-only form
+HALT,keep,01063697: an interruption or temporary suspension of progress or movement
+HAME,exclude,no clear singular countable sense (heuristic)
+HAND,keep,02440250: terminal part of the forelimb in certain vertebrates (e.g. apes or kangaroos)
+HANK,keep,03491988: a coil of rope or wool or yarn
+HARE,keep,02326432: swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs
+HARM,exclude,no clear singular countable sense (heuristic)
+HARP,keep,03494278: a small rectangular free-reed instrument having a row of free reeds set back in air holes and played by blowing into the desired hole
+HART,keep,"02431337: a male deer, especially an adult male red deer"
+HASH,exclude,no clear singular countable sense (heuristic)
+HASP,keep,03497352: a fastener for a door or lid
+HATE,exclude,no clear singular countable sense (heuristic)
+HAUL,exclude,no clear singular countable sense (heuristic)
+HAVE,keep,10529231: a person who possesses great material wealth
+HAWK,keep,01605630: diurnal bird of prey typically having short rounded wings and a long tail
+HAZE,exclude,no clear singular countable sense (heuristic)
+HEAD,keep,01318381: a single domestic animal
+HEAP,keep,02924554: a car that is old and unreliable
+HEAT,keep,07461288: a preliminary race in which the winner advances to a more important race
+HEED,exclude,no clear singular countable sense (heuristic)
+HEEL,keep,07683973: one of the crusty ends of a loaf of bread
+HEFT,exclude,no clear singular countable sense (heuristic)
+HEIR,exclude,"requires an, or pronunciation varies by dialect"
+HELL,keep,07305907: a cause of difficulty and suffering
+HELM,keep,01256615: a position of leadership
+HELP,keep,05149832: a means of serving
+HEME,exclude,no clear singular countable sense (heuristic)
+HEMP,keep,03491724: a rope that is used by a hangman to execute persons who have been condemned to death by hanging
+HERB,exclude,"requires an, or pronunciation varies by dialect"
+HERD,keep,07994331: a group of cattle or sheep or other domestic mammals all of the same kind that are herded by humans
+HERE,exclude,no clear singular countable sense (heuristic)
+HERO,keep,09906538: someone who fights for a cause
+HICK,keep,10804102: a person who is not very intelligent or interested in culture
+HIDE,keep,01895735: body covering of a living animal
+HIGH,keep,03518631: a forward gear with a gear ratio that gives the greatest vehicle velocity for a given engine speed
+HIKE,keep,00288970: a long walk usually for exercise or pleasure
+HILL,keep,09303008: a local and well-defined elevation of the land
+HILT,exclude,no clear singular countable sense (heuristic)
+HIND,keep,"02431441: a female deer, especially an adult female red deer"
+HINT,keep,06651577: an indication of potential opportunity
+HIRE,keep,10170060: a newly hired employee
+HISS,keep,07123870: a cry or noise made to express displeasure or contempt
+HIVE,keep,02822865: a man-made receptacle that houses a swarm of bees
+HOAR,exclude,no clear singular countable sense (heuristic)
+HOAX,exclude,no clear singular countable sense (heuristic)
+HOBO,keep,10723300: a disreputable vagrant
+HOCK,keep,02463205: tarsal joint of the hind leg of hoofed mammals
+HOLD,keep,03525252: a cell in a jail or prison
+HOLE,keep,03526198: an opening deliberately made in or through something
+HOLY,keep,08585056: a sacred place of pilgrimage
+HOME,keep,03528100: an institution where people are cared for
+HOMO,keep,"02472293: any living or extinct member of the family Hominidae characterized by superior intelligence, articulate speech, and erect carriage"
+HONE,exclude,no clear singular countable sense (heuristic)
+HONK,exclude,no clear singular countable sense (heuristic)
+HOOD,keep,01748100: (zoology) an expandable part or marking that resembles a hood on the head or neck of an animal
+HOOF,keep,02153959: the foot of an ungulate mammal
+HOOK,keep,00111358: a basketball shot made over the head with the hand that is farther from the basket
+HOOP,keep,03533972: a rigid circular band of metal or wood or other material used for holding or fastening or hanging or pulling
+HOOT,keep,07122555: a loud raucous cry (as of an owl)
+HOPE,keep,04848262: one of the three Christian virtues
+HOPI,exclude,no clear singular countable sense (heuristic)
+HORN,keep,01325417: one of the bony outgrowths on the heads of certain ungulates
+HOSE,keep,03539875: a flexible pipe for conveying a liquid or gas
+HOST,keep,01385527: an animal or plant that nourishes and supports a parasite
+HOUR,exclude,"requires an, or pronunciation varies by dialect"
+HOWE,exclude,no clear singular countable sense (heuristic)
+HOWL,keep,07126734: a long loud emotional utterance
+HUCK,exclude,no clear singular countable sense (heuristic)
+HUFF,keep,14407070: a state of irritation or annoyance
+HULA,keep,00542458: a Polynesian rain dance performed by a woman
+HULK,keep,03548533: a ship that has been wrecked and abandoned
+HULL,exclude,no clear singular countable sense (heuristic)
+HUMP,exclude,no clear singular countable sense (heuristic)
+HUNK,keep,09307300: a large piece of something without definite shape
+HUNT,keep,05770257: an instance of searching for something
+HURL,keep,00105479: a violent throw
+HURT,keep,07420538: a damage or loss
+HUSH,exclude,no clear singular countable sense (heuristic)
+HUSK,exclude,no clear singular countable sense (heuristic)
+HUSS,exclude,no clear singular countable sense (heuristic)
+HYMN,keep,07035870: a song of praise (to God or to a saint or to a nation)
+HYPO,keep,03555662: a piston syringe that is fitted with a hypodermic needle for giving injections
+JACK,keep,02389943: male donkey
+JADE,keep,02382204: an old or over-worked horse
+JAIL,keep,03592245: a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)
+JAMB,exclude,no clear singular countable sense (heuristic)
+JAPE,keep,06778102: a humorous anecdote or remark intended to provoke laughter
+JATI,exclude,no clear singular countable sense (heuristic)
+JAZZ,keep,07060976: a style of dance music popular in the 1920s
+JEAN,keep,03175189: a coarse durable twill-weave cotton fabric
+JEEP,keep,03594945: a car suitable for traveling over rough terrain
+JEER,exclude,no clear singular countable sense (heuristic)
+JERK,keep,00115500: a sudden abrupt pull
+JEST,keep,06778102: a humorous anecdote or remark intended to provoke laughter
+JIBE,keep,06767922: an aggressive remark directed at a person like a missile and intended to have a telling effect
+JILT,keep,10222259: a woman who jilts a lover
+JINX,keep,07160424: an evil spell
+JIVE,keep,07066042: a style of jazz played by big bands popular in the 1930s
+JOCK,keep,02752615: a support for the genitals worn by men engaging in strenuous exercise
+JOIN,keep,07998712: a set containing all and only the members of two or more given sets
+JOKE,keep,00427580: a ludicrous or grotesque act done for fun and amusement
+JOLT,keep,00335988: an abrupt spasmodic movement
+JOSS,keep,03602267: a Chinese god worshipped in the form of an idol
+JOWL,keep,05602982: a fullness and looseness of the flesh of the lower cheek and jaw (characteristic of aging)
+JUDO,keep,00825773: a sport adapted from jujitsu (using principles of not resisting) and similar to wrestling
+JUJU,keep,03603958: a charm superstitiously believed to embody magical powers
+JUKE,keep,03603199: a small roadside establishment in the southeastern United States where you can eat and drink and dance to music provided by a jukebox
+JUMP,keep,00867357: a sudden involuntary movement
+JUNE,exclude,no clear singular countable sense (heuristic)
+JUNK,exclude,no clear singular countable sense (heuristic)
+JURY,keep,08414119: a body of citizens sworn to give a true verdict according to the evidence presented in a court of law
+JUTE,exclude,no clear singular countable sense (heuristic)
+JYNX,exclude,no clear singular countable sense (heuristic)
+KAIL,keep,11876976: a hardy cabbage with coarse curly leaves that do not form a head
+KAKI,keep,02035656: blackish stilt of New Zealand sometimes considered a color phase of the white-headed stilt
+KALE,keep,11876976: a hardy cabbage with coarse curly leaves that do not form a head
+KALI,exclude,no clear singular countable sense (heuristic)
+KAVA,exclude,no clear singular countable sense (heuristic)
+KAYO,keep,00134099: a blow that renders the opponent unconscious
+KEEL,keep,03609542: one of the main longitudinal beams (or plates) of the hull of a vessel
+KEEN,keep,07042735: a funeral lament sung with loud wailing
+KEEP,keep,03525252: a cell in a jail or prison
+KELP,keep,01403457: large brown seaweeds having fluted leathery fronds
+KELT,exclude,no clear singular countable sense (heuristic)
+KENO,keep,00504660: a game in which numbered balls are drawn at random and players cover the corresponding numbers on their cards
+KENT,exclude,no clear singular countable sense (heuristic)
+KEPI,keep,03610682: a cap with a flat circular top and a visor
+KERN,exclude,no clear singular countable sense (heuristic)
+KHAN,keep,02961035: an inn in some eastern countries with a large courtyard that provides accommodation for caravans
+KHAT,exclude,no clear singular countable sense (heuristic)
+KIBE,exclude,no clear singular countable sense (heuristic)
+KICK,keep,00336805: a rhythmic thrusting movement of the legs as in swimming or calisthenics
+KIKE,exclude,no clear singular countable sense (heuristic)
+KILL,exclude,no clear singular countable sense (heuristic)
+KILN,keep,03617095: a furnace for firing or burning or drying such things as porcelain or bricks
+KILO,keep,13724582: one thousand grams
+KILT,keep,03617312: a knee-length pleated tartan skirt worn by men as part of the traditional dress in the Highlands of northern Scotland
+KINA,exclude,no clear singular countable sense (heuristic)
+KIND,keep,05839024: a category of things distinguished by some common characteristic or quality
+KING,keep,03618339: a checker that has been moved to the opponent's first row where it is promoted to a piece that is free to move either forward or backward
+KINK,keep,05688770: a difficulty or flaw in a plan or operation
+KINO,exclude,no clear singular countable sense (heuristic)
+KIRK,keep,03618982: a Scottish church
+KISS,keep,00138078: a light glancing touch
+KITE,keep,13382306: a bank check drawn on insufficient funds at another bank in order to take advantage of the float
+KITH,exclude,no clear singular countable sense (heuristic)
+KIVU,exclude,no clear singular countable sense (heuristic)
+KIWI,keep,01520576: nocturnal flightless bird of New Zealand having a long neck and stout legs
+KNEE,keep,02464065: joint between the femur and tibia in a quadruped
+KNIT,keep,03625226: a basic knitting stitch
+KNOB,keep,03626014: a round handle
+KNOT,keep,02028900: a sandpiper that breeds in the Arctic and winters in the southern hemisphere
+KNOW,exclude,no clear singular countable sense (heuristic)
+KNUT,exclude,no clear singular countable sense (heuristic)
+KOHL,keep,03628071: a cosmetic preparation used by women in Egypt and Arabia to darken the edges of their eyelids
+KOLA,exclude,no clear singular countable sense (heuristic)
+KORE,exclude,no clear singular countable sense (heuristic)
+KOTO,exclude,no clear singular countable sense (heuristic)
+KUDU,keep,02424305: either of two spiral-horned antelopes of the African bush
+KYAT,exclude,no clear singular countable sense (heuristic)
+LACE,keep,03631177: a delicate decorative fabric woven in an open web of symmetrical patterns
+LACK,exclude,no clear singular countable sense (heuristic)
+LADY,keep,09989290: a woman of refinement
+LAIR,exclude,no clear singular countable sense (heuristic)
+LAKE,keep,09328904: a body of (usually fresh) water surrounded by land
+LAMA,keep,10243664: a Tibetan or Mongolian priest of Lamaism
+LAMB,keep,02412440: young sheep
+LAME,keep,03635330: a fabric interwoven with threads of metal
+LAMP,keep,03636248: an artificial source of visible illumination
+LAND,keep,08168978: a politically organized body of people under a single government
+LANE,keep,03640589: a narrow way or road
+LARD,exclude,no clear singular countable sense (heuristic)
+LARI,exclude,no clear singular countable sense (heuristic)
+LARK,keep,01528654: a songbird that lives mainly on the ground in open country
+LASH,keep,00134574: a quick blow delivered with a whip or whiplike object
+LASS,keep,10247358: a girl or young woman who is unmarried
+LAST,keep,01264667: a person's dying act
+LATH,exclude,no clear singular countable sense (heuristic)
+LAVA,exclude,no clear singular countable sense (heuristic)
+LAWN,keep,08591592: a field of cultivated and mowed grass
+LEAD,keep,01256743: a position of leadership (especially in the phrase `take the lead')
+LEAF,exclude,no clear singular countable sense (heuristic)
+LEAK,keep,09337048: an accidental hole that allows something (fluid or light etc.) to enter or escape
+LEAN,exclude,no clear singular countable sense (heuristic)
+LEAP,keep,"00120202: a light, self-propelled movement upwards or forwards"
+LEAR,exclude,no clear singular countable sense (heuristic)
+LECH,exclude,no clear singular countable sense (heuristic)
+LEDE,exclude,no clear singular countable sense (heuristic)
+LEEK,exclude,no clear singular countable sense (heuristic)
+LEER,keep,04680027: a suggestive or sneering look or grin
+LEES,exclude,possible plural or plural-only form
+LEFT,keep,00351168: a turn toward the side of the body that is on the north when the person is facing east
+LENS,keep,03656484: a transparent optical device used to converge or diverge transmitted light and to form images
+LENT,exclude,no clear singular countable sense (heuristic)
+LEVY,keep,13308864: a charge imposed and collected
+LIAR,keep,10256537: a person who has lied or who lies repeatedly
+LICK,keep,09420689: a salt deposit that animals regularly lick
+LIDO,keep,03661861: a recreational facility including a swimming pool for water sports
+LIED,keep,07051620: a German art song of the 19th century for voice and piano
+LIEN,keep,05333467: a large dark-red oval organ on the left side of the body between the stomach and the diaphragm
+LIEU,exclude,no clear singular countable sense (heuristic)
+LIFE,keep,06515827: an account of the series of events making up a person's life
+LIFO,exclude,no clear singular countable sense (heuristic)
+LIFT,keep,00309276: a ride in a car
+LIKE,keep,05845419: a kind of person
+LILT,keep,04992008: a jaunty rhythm in music
+LILY,exclude,no clear singular countable sense (heuristic)
+LIMB,keep,05560244: one of the jointed appendages of an animal used for locomotion or grasping: arm
+LIME,exclude,no clear singular countable sense (heuristic)
+LIMO,exclude,no clear singular countable sense (heuristic)
+LIMP,exclude,no clear singular countable sense (heuristic)
+LINE,keep,02934168: a conductor for transmitting electrical or optical signals or electric power
+LING,keep,02523427: elongate freshwater cod of northern Europe and Asia and North America having barbels around its mouth
+LINK,keep,03673971: a fastener that serves to join or connect
+LINO,exclude,no clear singular countable sense (heuristic)
+LINT,exclude,no clear singular countable sense (heuristic)
+LION,keep,02129165: large gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male
+LIRA,exclude,no clear singular countable sense (heuristic)
+LISP,keep,14402763: a speech defect that involves pronouncing `s' like voiceless `th' and `z' like voiced `th'
+LIST,keep,06481320: a database containing an ordered array of items (names or topics)
+LOAD,keep,05832745: an onerous or difficult concern
+LOAF,exclude,no clear singular countable sense (heuristic)
+LOAM,exclude,no clear singular countable sense (heuristic)
+LOAN,keep,06293460: a word borrowed from another language
+LOBE,keep,03680734: a rounded projection that is part of a larger structure
+LOCH,keep,09341987: a long narrow inlet of the sea in Scotland (especially when it is nearly landlocked)
+LOCK,keep,03682487: a fastener fitted to a door or drawer to keep it firmly closed
+LODE,keep,11446067: a deposit of valuable ore occurring within definite boundaries separating it from surrounding rocks
+LOFT,keep,03686363: a raised shelter in which pigeons are kept
+LOGE,exclude,no clear singular countable sense (heuristic)
+LOGO,keep,07272084: a company emblem or device
+LOIN,keep,02463403: either side of the backbone between the hipbone and the ribs in humans as well as quadrupeds
+LOIR,keep,02352932: large European dormouse
+LOOK,exclude,no clear singular countable sense (heuristic)
+LOOM,keep,03689157: a textile machine for weaving yarn into a textile
+LOON,keep,02049088: large somewhat primitive fish-eating diving bird of the northern hemisphere having webbed feet placed far back
+LOOP,keep,00169811: a flight maneuver
+LOOT,exclude,no clear singular countable sense (heuristic)
+LOPE,keep,00288486: a smooth three-beat gait
+LORD,keep,10388440: a person who has general authority over others
+LORE,exclude,no clear singular countable sense (heuristic)
+LORY,exclude,no clear singular countable sense (heuristic)
+LOSS,exclude,no clear singular countable sense (heuristic)
+LOST,exclude,no clear singular countable sense (heuristic)
+LOTA,keep,03690851: a globular water bottle used in Asia
+LOTS,exclude,possible plural or plural-only form
+LOUT,keep,10274639: an awkward stupid person
+LOVE,keep,07488340: a deep feeling of sexual desire and attraction
+LUBE,exclude,no clear singular countable sense (heuristic)
+LUCE,exclude,no clear singular countable sense (heuristic)
+LUCK,keep,11418138: an unknown and unpredictable phenomenon that causes an event to result one way rather than another
+LUCY,exclude,no clear singular countable sense (heuristic)
+LUDO,keep,00504975: a simple board game in which players move counters according to the throw of dice
+LUES,exclude,possible plural or plural-only form
+LUFF,exclude,no clear singular countable sense (heuristic)
+LUGE,keep,03695753: a racing sled for one or two people
+LUKE,exclude,no clear singular countable sense (heuristic)
+LULL,keep,14522956: a period of calm weather
+LULU,keep,10613996: a very attractive or seductive looking woman
+LUMP,keep,07961016: a compact mass
+LUNA,exclude,no clear singular countable sense (heuristic)
+LUNG,exclude,no clear singular countable sense (heuristic)
+LUNT,exclude,no clear singular countable sense (heuristic)
+LURE,exclude,no clear singular countable sense (heuristic)
+LUSH,keep,09782167: a person who drinks alcohol to excess habitually
+LUST,keep,07489714: a strong sexual desire
+LUTE,exclude,no clear singular countable sense (heuristic)
+LYNX,keep,02127052: short-tailed wildcats with usually tufted ears
+LYRA,exclude,no clear singular countable sense (heuristic)
+LYRE,keep,03699280: a harp used by ancient Greeks for accompaniment
+MACE,keep,07267461: a ceremonial staff carried as a symbol of office or authority
+MACK,keep,03702719: a waterproof raincoat made of rubberized fabric
+MAGI,exclude,irregular plural form
+MAHA,exclude,no clear singular countable sense (heuristic)
+MAID,keep,10282482: an unmarried girl (especially a virgin)
+MAIL,keep,03709644: a conveyance that transports the letters and packages that are conveyed by the postal system
+MAIN,keep,03711145: a principal pipe in a system that distributes water or gas or electricity or that collects sewage
+MAKE,keep,05845140: a recognizable kind
+MAKO,keep,01484097: powerful mackerel shark of the Atlantic and Pacific
+MALE,keep,01321230: an animal that produces gametes (spermatozoa) that can fertilize female gametes (ova)
+MALI,exclude,no clear singular countable sense (heuristic)
+MALL,keep,04010205: a public area set aside as a pedestrian walk
+MALT,keep,07926642: a milkshake made with malt powder
+MAMO,keep,01545010: black honeycreepers with yellow feathers around the tail
+MANE,keep,01899746: long coarse hair growing from the crest of the animal's neck
+MARC,exclude,no clear singular countable sense (heuristic)
+MARE,keep,02377480: female equine animal
+MARK,keep,04681387: a marking that consists of lines that cross each other
+MARL,exclude,no clear singular countable sense (heuristic)
+MART,keep,03722288: an area in a town where a public mercantile establishment is set up
+MARY,exclude,no clear singular countable sense (heuristic)
+MASA,exclude,no clear singular countable sense (heuristic)
+MASH,exclude,no clear singular countable sense (heuristic)
+MASK,keep,03724870: a covering to disguise or conceal the face
+MASS,keep,07962124: an ill-structured collection of similar things (objects or people)
+MAST,keep,03726760: a vertical spar for supporting sails
+MATE,keep,00167764: a chess move constituting an inescapable and indefensible attack on the opponent's king
+MATH,keep,06000644: a science (or group of related sciences) dealing with the logic of quantity and shape and arrangement
+MAUL,keep,03731695: a heavy long-handled hammer used to drive stakes or wedges
+MAYA,exclude,no clear singular countable sense (heuristic)
+MAZE,exclude,no clear singular countable sense (heuristic)
+MEAD,exclude,no clear singular countable sense (heuristic)
+MEAL,exclude,no clear singular countable sense (heuristic)
+MEAN,keep,06023969: an average of n numbers computed by adding some function of the numbers and dividing by some function of n
+MEAT,exclude,no clear singular countable sense (heuristic)
+MEED,keep,13284356: a fitting reward
+MEET,keep,07467846: a meeting at which a number of athletic contests are held
+MELD,keep,00497060: a form of rummy using two decks of cards and four jokers
+MELT,exclude,no clear singular countable sense (heuristic)
+MEMO,keep,06506191: a written proposal or reminder
+MEND,exclude,no clear singular countable sense (heuristic)
+MENU,keep,05911124: an agenda of things to do
+MERE,keep,09351547: a small pond of standing water
+MERL,keep,01558594: common black European thrush
+MESA,exclude,no clear singular countable sense (heuristic)
+MESH,keep,03819595: an open fabric of string or rope or wire woven together at regular intervals
+MESS,keep,03751065: a (large) military dining room where service personnel eat or relax
+METE,keep,08512736: a line that indicates a boundary
+MICA,exclude,no clear singular countable sense (heuristic)
+MICK,exclude,no clear singular countable sense (heuristic)
+MIEN,exclude,no clear singular countable sense (heuristic)
+MIFF,keep,14407070: a state of irritation or annoyance
+MIKE,exclude,no clear singular countable sense (heuristic)
+MILE,keep,07469325: a footrace extending one mile
+MILK,exclude,no clear singular countable sense (heuristic)
+MILL,keep,03316406: a plant consisting of one or more buildings with facilities for manufacturing
+MILO,exclude,no clear singular countable sense (heuristic)
+MILT,exclude,no clear singular countable sense (heuristic)
+MIME,keep,00550016: a performance using gestures and body movements without words
+MINA,keep,01577659: tropical Asian starlings
+MIND,keep,05837957: an opinion formed by judging something
+MINE,exclude,no clear singular countable sense (heuristic)
+MING,exclude,no clear singular countable sense (heuristic)
+MINK,keep,02442845: slender-bodied semiaquatic mammal having partially webbed feet
+MINT,keep,03772269: a plant where money is coined by authority of the government
+MINX,keep,09965134: a seductive woman who uses her sex appeal to exploit men
+MIRE,keep,09355850: a soft wet area of low-lying land that sinks underfoot
+MIRO,exclude,no clear singular countable sense (heuristic)
+MISS,keep,07319774: a failure to hit (or meet or find etc)
+MIST,keep,11482706: a thin fog with condensation near the ground
+MITE,keep,13774115: a slight but appreciable amount
+MITT,exclude,no clear singular countable sense (heuristic)
+MOAN,keep,07126383: an utterance expressing pain or disapproval
+MOAT,exclude,no clear singular countable sense (heuristic)
+MOCK,exclude,no clear singular countable sense (heuristic)
+MODE,keep,13802634: a classification of propositions on the basis of whether they claim necessity or possibility or impossibility
+MOHO,exclude,no clear singular countable sense (heuristic)
+MOJO,keep,05968209: a magic power or magic spell
+MOKE,keep,02389865: British informal for donkey
+MOLA,keep,02656670: among the largest bony fish
+MOLD,keep,"04732709: a distinctive nature, character, or type"
+MOLE,keep,02894605: a protective structure of stone or concrete
+MOLL,exclude,no clear singular countable sense (heuristic)
+MOLT,exclude,no clear singular countable sense (heuristic)
+MONA,exclude,no clear singular countable sense (heuristic)
+MONK,keep,10112129: a male religious living in a cloister and devoting himself to contemplation and prayer and work
+MONO,keep,14135277: an acute disease characterized by fever and swollen lymph nodes and an abnormal increase of mononuclear leucocytes or monocytes in the bloodstream
+MOOD,keep,07551052: a characteristic (habitual or relatively temporary) state of feeling
+MOON,exclude,no clear singular countable sense (heuristic)
+MOOR,exclude,no clear singular countable sense (heuristic)
+MOOT,keep,01183638: a hypothetical case that law students argue as an exercise
+MOPE,keep,09988703: someone who wastes time
+MORE,exclude,no clear singular countable sense (heuristic)
+MORN,exclude,no clear singular countable sense (heuristic)
+MORO,exclude,no clear singular countable sense (heuristic)
+MOSS,exclude,no clear singular countable sense (heuristic)
+MOTE,exclude,no clear singular countable sense (heuristic)
+MOTH,keep,02283201: typically crepuscular or nocturnal insect having a stout body and feathery or hairlike antennae
+MOTT,exclude,no clear singular countable sense (heuristic)
+MOVE,keep,00331950: a change of position that does not entail a change of location
+MUCH,keep,13776621: a great amount or extent
+MUCK,exclude,no clear singular countable sense (heuristic)
+MUFF,keep,03796974: a warm tubular covering for the hands
+MUIR,exclude,no clear singular countable sense (heuristic)
+MULE,keep,02390101: hybrid offspring of a male donkey and a female horse
+MULL,keep,09362945: a term used in Scottish names of promontories
+MUNG,exclude,no clear singular countable sense (heuristic)
+MUNJ,exclude,no clear singular countable sense (heuristic)
+MURK,keep,14521648: an atmosphere in which visibility is reduced because of a cloud of some substance
+MUSE,exclude,no clear singular countable sense (heuristic)
+MUSH,keep,00308208: a journey by dogsled
+MUSK,exclude,no clear singular countable sense (heuristic)
+MUSS,keep,14500047: a state of confusion and disorderliness
+MUST,keep,09363970: a necessary or essential thing
+MUTE,keep,03802973: a device used to soften the tone of a musical instrument
+MUTT,keep,02084861: an inferior dog or one of mixed breed
+MYNA,keep,01577659: tropical Asian starlings
+MYTH,keep,06372680: a traditional story accepted as history
+NAGA,exclude,no clear singular countable sense (heuristic)
+NAIF,keep,10344121: a naive or inexperienced person
+NAIL,keep,03804744: a thin pointed piece of metal that is hammered into materials as a fastener
+NAME,keep,06333653: a language unit by which a person or thing is known
+NAPA,exclude,no clear singular countable sense (heuristic)
+NAPE,exclude,no clear singular countable sense (heuristic)
+NAPU,keep,02436353: chevrotain somewhat larger than the kanchil
+NARD,keep,03809211: an aromatic ointment used in antiquity
+NARK,keep,10345302: a lawman concerned with narcotics violations
+NASH,exclude,no clear singular countable sense (heuristic)
+NAST,exclude,no clear singular countable sense (heuristic)
+NAVE,exclude,no clear singular countable sense (heuristic)
+NAVY,keep,04969703: a dark shade of blue
+NAZE,exclude,no clear singular countable sense (heuristic)
+NEAP,keep,07403300: a less than average tide occurring at the first and third quarters of the moon
+NECK,keep,03814112: an opening in a garment for the neck of the wearer
+NEED,keep,14449126: a condition requiring relief
+NEEM,exclude,no clear singular countable sense (heuristic)
+NEON,exclude,no clear singular countable sense (heuristic)
+NESS,keep,09233715: a strip of land projecting into a body of water
+NEST,keep,03819217: a kind of gun emplacement
+NEVE,exclude,no clear singular countable sense (heuristic)
+NEWS,exclude,possible plural or plural-only form
+NEWT,exclude,no clear singular countable sense (heuristic)
+NICE,exclude,no clear singular countable sense (heuristic)
+NICK,keep,00387897: a small cut
+NINE,keep,08079613: a team of professional baseball players who play and travel together
+NIPA,exclude,no clear singular countable sense (heuristic)
+NODE,keep,13911045: a connecting point at which several lines come together
+NOEL,exclude,no clear singular countable sense (heuristic)
+NOMA,exclude,no clear singular countable sense (heuristic)
+NOME,exclude,no clear singular countable sense (heuristic)
+NONE,keep,01034385: a service in the Roman Catholic Church formerly read or chanted at 3 PM (the ninth hour counting from sunrise) but now somewhat earlier
+NOOK,keep,03109881: an interior angle formed by two meeting walls
+NOON,exclude,no clear singular countable sense (heuristic)
+NORM,keep,06021761: a statistic describing the location of a distribution
+NOSE,keep,03830835: a front that resembles a human nose (especially the front of an aircraft)
+NOSH,exclude,no clear singular countable sense (heuristic)
+NOTE,keep,04727694: a characteristic emotional quality
+NOUN,keep,"06319293: a content word that can be used to refer to a person, place, thing, quality, or action"
+NOUS,exclude,no clear singular countable sense (heuristic)
+NOVA,keep,09374493: a star that ejects some of its material in the form of a cloud and become more luminous in the process
+NUDE,keep,03835197: a painting of a naked human figure
+NUKE,exclude,no clear singular countable sense (heuristic)
+NULL,keep,13740168: a quantity of no importance
+PACA,keep,02366301: large burrowing rodent of South America and Central America
+PACE,keep,00285889: a step in walking or running
+PACK,keep,03870546: a convenient package or parcel (as of cigarettes or film)
+PACT,keep,06773434: a written agreement between two states or sovereigns
+PAGE,keep,10391248: a youthful attendant at official functions or ceremonies such as legislative functions and weddings
+PAIL,keep,02909870: a roughly cylindrical vessel that is open at the top
+PAIN,keep,05724694: a somatic sensation of acute discomfort
+PAIR,keep,07958407: a poker hand with 2 cards of the same value
+PALE,exclude,no clear singular countable sense (heuristic)
+PALI,exclude,no clear singular countable sense (heuristic)
+PALL,keep,07537259: a sudden numbing dread
+PALM,keep,06706676: an award for winning a championship or commemorating some other event
+PANE,keep,03882611: a panel or section of panels in a wall or door
+PANG,keep,07494972: a sudden sharp feeling
+PANT,keep,00837098: a short labored intake of breath with the mouth open
+PAPA,keep,09988063: an informal term for a father
+PARA,keep,10399019: a soldier in the paratroops
+PARK,keep,02782778: a facility in which ball games are played (especially baseball games)
+PARR,keep,02513727: the young of various fishes
+PART,keep,05256358: a line of scalp that can be seen when sections of hair are combed in opposite directions
+PASS,keep,00304592: a flight or run by an aircraft over a target
+PAST,keep,06330262: a verb tense that expresses actions or states in the past
+PATE,exclude,no clear singular countable sense (heuristic)
+PATH,keep,00415676: a course of conduct
+PAVE,keep,03900393: a setting with precious stones so closely set that no metal shows
+PAWL,keep,03901548: a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward
+PAWN,keep,10209616: a person used by another to gain an end
+PEAG,exclude,no clear singular countable sense (heuristic)
+PEAK,keep,02838728: a brim that projects to the front to shade the eyes
+PEAL,keep,07389330: a deep prolonged sound (as of thunder or large bells)
+PEAN,keep,06694149: a formal expression of praise
+PEAR,exclude,no clear singular countable sense (heuristic)
+PEAT,exclude,no clear singular countable sense (heuristic)
+PEBA,keep,02454794: having nine hinged bands of bony plates
+PECK,keep,13620713: a United States dry measure equal to 8 quarts or 537.605 cubic inches
+PEEK,keep,00878221: a secret look
+PEEL,exclude,no clear singular countable sense (heuristic)
+PEEN,exclude,no clear singular countable sense (heuristic)
+PEEP,keep,00878221: a secret look
+PEER,keep,09626238: a person who is of equal standing with another in a group
+PELF,exclude,no clear singular countable sense (heuristic)
+PELT,keep,01895735: body covering of a living animal
+PEON,keep,10035809: a laborer who is obliged to do menial work
+PERI,keep,10416364: a beautiful and graceful girl
+PERK,keep,13298011: an incidental benefit awarded for certain types of employment (especially if it is regarded as a right)
+PERM,keep,05260533: a series of waves in the hair made by applying heat and chemicals
+PESO,exclude,no clear singular countable sense (heuristic)
+PEST,keep,01314388: any unwanted and destructive insect or other animal that attacks food or crops or livestock etc.
+PHIZ,exclude,no clear singular countable sense (heuristic)
+PHON,keep,13713983: a unit of subjective loudness
+PHOT,keep,13640866: a unit of illumination equal to 1 lumen per square centimeter
+PICA,keep,13712428: a linear unit (1/6 inch) used in printing
+PICK,keep,00563665: a basketball maneuver
+PIER,keep,03933529: a platform built out from the shore into the water and supported by piles
+PIKA,exclude,no clear singular countable sense (heuristic)
+PIKE,keep,03306610: a broad highway designed for high-speed traffic
+PILE,keep,02753710: a nuclear reactor that uses controlled nuclear fission to generate energy
+PILL,keep,03936895: a contraceptive in the form of a pill containing estrogen and progestin to inhibit ovulation and so prevent conception
+PIMP,keep,10433737: someone who procures customers for whores (in England they call a pimp a ponce)
+PINE,keep,11608250: a coniferous tree
+PING,keep,07389569: a sharp high-pitched resonant sound (as of a sonar echo or a bullet striking metal)
+PINK,keep,04970916: a light shade of red
+PINT,keep,13619307: a United States liquid unit equal to 16 fluid ounces
+PIPA,exclude,no clear singular countable sense (heuristic)
+PIPE,keep,03944672: a long tube made of metal or plastic that is used to carry water or oil or gas etc.
+PISS,exclude,no clear singular countable sense (heuristic)
+PITA,exclude,no clear singular countable sense (heuristic)
+PITH,exclude,no clear singular countable sense (heuristic)
+PITY,keep,07305098: an unfortunate development
+PIXY,exclude,no clear singular countable sense (heuristic)
+PLAN,keep,05728678: an arrangement scheme
+PLAT,keep,03959350: a map showing planned or actual features of an area (streets and building lots etc.)
+PLAY,keep,00556313: a deliberate coordinated movement requiring dexterity and skill
+PLEA,keep,01197928: an answer indicating why a suit should be dismissed
+PLEB,keep,10441251: one of the common people
+PLOD,exclude,no clear singular countable sense (heuristic)
+PLOP,exclude,no clear singular countable sense (heuristic)
+PLOT,keep,05907682: a secret scheme to do something (especially something underhand or illegal)
+PLOW,keep,03967562: a farm tool having one or more heavy blades to break the soil and cut a furrow prior to sowing
+PLOY,keep,00172490: a maneuver in a game or conversation
+PLUG,keep,02382204: an old or over-worked horse
+PLUM,keep,00596081: a highly desirable position or assignment
+PLUS,keep,05154517: a useful or valuable quality
+POCK,keep,14334511: a pustule in an eruptive disease
+POEM,keep,06377442: a composition written in metrical feet forming rhythmical lines
+POET,keep,10444194: a writer of poems (the term is usually reserved for writers of good poetry)
+POGY,exclude,no clear singular countable sense (heuristic)
+POKE,keep,00334935: a sharp hand gesture (resembling a blow)
+POKY,keep,03592245: a correctional institution used to detain persons who are in the lawful custody of the government (either accused persons awaiting trial or convicted persons serving a sentence)
+POLE,keep,03976657: a long (usually round) rod of wood or metal or plastic
+POLK,exclude,no clear singular countable sense (heuristic)
+POLL,keep,01817346: a tame parrot
+POLO,keep,00477639: a game similar to field hockey but played on horseback using long-handled mallets and a wooden ball
+POME,keep,13138842: a fleshy fruit (apple or pear or related fruits) having seed chambers and an outer fleshy part
+POMP,exclude,no clear singular countable sense (heuristic)
+POND,keep,09397391: a small lake
+PONE,exclude,no clear singular countable sense (heuristic)
+PONG,keep,05715150: an unpleasant smell
+PONY,keep,02380335: a range horse of the western United States
+POOF,exclude,no clear singular countable sense (heuristic)
+POOL,keep,03982060: an excavation that is (usually) filled with water
+POON,exclude,no clear singular countable sense (heuristic)
+POOP,keep,10358794: a stupid foolish person
+POOR,exclude,no clear singular countable sense (heuristic)
+POPE,exclude,no clear singular countable sense (heuristic)
+PORE,keep,11680032: a minute epidermal pore in a leaf or stem through which gases and water vapor can pass
+PORK,keep,13358000: a legislative appropriation designed to ingratiate legislators with their constituents
+PORT,keep,03984908: an opening (in a wall or ship or armored vehicle) for firing through
+POSE,keep,00755673: a deliberate pretense or exaggerated display
+POST,keep,00586262: a job in an organization
+POSY,keep,02879087: an arrangement of flowers that is usually given as a present
+POUF,exclude,no clear singular countable sense (heuristic)
+POUT,keep,02519340: catfish common in eastern United States
+PRAM,keep,02766534: a small vehicle with four wheels in which a baby or child is pushed around
+PRAT,exclude,no clear singular countable sense (heuristic)
+PREP,exclude,no clear singular countable sense (heuristic)
+PREY,keep,02152881: animal hunted or caught for food
+PRIG,keep,10617024: a person regarded as arrogant and annoying
+PROD,keep,04007664: a pointed instrument that is used to prod into a state of motion
+PROF,keep,10480730: someone who is a member of the faculty at a college or university
+PROP,keep,02692086: a propeller that rotates to push against air
+PROW,exclude,no clear singular countable sense (heuristic)
+PUCE,keep,04974145: a color varying from dark purplish brown to dark red
+PUCK,keep,04019541: a vulcanized rubber disk 3 inches in diameter that is used instead of a ball in ice hockey
+PUFF,keep,00837675: a slow inhalation (as of tobacco smoke)
+PUKA,exclude,no clear singular countable sense (heuristic)
+PUKE,keep,10539715: a person who is deemed to be despicable or contemptible
+PUKU,keep,02428089: an African antelope closely related to the waterbuck
+PULL,keep,00625427: a sustained effort
+PULP,keep,06596607: an inexpensive magazine printed on poor quality paper
+PUMA,keep,02125311: large American feline resembling a lion
+PUMP,keep,04021798: a mechanical device that moves fluid or gas by pressure or suction
+PUNG,keep,04024576: a one-horse sleigh consisting of a box on runners
+PUNK,keep,10184081: an aggressive and violent young criminal
+PUNT,keep,04024983: an open flat-bottomed boat used in shallow waters and propelled by a long pole
+PUPA,keep,02312427: an insect in the inactive stage of development (when it is not feeding) intermediate between larva and adult
+PURL,keep,04026180: a basic knitting stitch
+PURR,keep,07390645: a low vibrating sound typical of a contented cat
+PUSH,keep,00282485: an effort to advance
+PUSS,keep,02122298: informal terms referring to a domestic cat
+PUTT,exclude,no clear singular countable sense (heuristic)
+PYRE,exclude,no clear singular countable sense (heuristic)
+QOPH,exclude,no clear singular countable sense (heuristic)
+QUAD,keep,04030518: a rectangular area surrounded on all sides by buildings
+QUAG,keep,09355850: a soft wet area of low-lying land that sinks underfoot
+QUAT,exclude,no clear singular countable sense (heuristic)
+QUAY,exclude,no clear singular countable sense (heuristic)
+QUID,keep,07579399: a wad of something chewable as tobacco
+QUIN,keep,10501908: one of five children born at the same time from the same pregnancy
+QUIP,keep,07153727: a witty saying
+QUIZ,keep,07199191: an examination consisting of a few short questions
+RACE,keep,04037873: a canal for a current of water
+RACK,keep,00287276: a rapid gait of a horse in which each foot strikes the ground separately
+RAFT,keep,04045397: a flat float (usually made of logs or planks) that can be used for transport or as a platform for swimmers
+RAGE,keep,05751173: an interest followed with exaggerated zeal
+RAID,keep,00777324: an attempt by speculators to defraud investors
+RAIL,keep,04046590: a horizontal bar (usually of wood or metal)
+RAIN,exclude,no clear singular countable sense (heuristic)
+RAJA,keep,10505732: a prince or king in India
+RAKE,keep,04050066: a long-handled tool with a row of teeth at its head
+RALE,keep,07391240: a rapid series of short loud sounds (as might be heard with a stethoscope in some types of respiratory disorders)
+RAMP,keep,04051549: an inclined surface connecting two levels
+RANA,exclude,no clear singular countable sense (heuristic)
+RAND,exclude,no clear singular countable sense (heuristic)
+RANI,exclude,no clear singular countable sense (heuristic)
+RANK,keep,08431942: a row or line of people (especially soldiers or police) standing abreast of one another
+RANT,keep,07242912: a loud bombastic declamation expressed with strong emotion
+RAPE,exclude,no clear singular countable sense (heuristic)
+RASH,keep,08459087: a series of unexpected and unpleasant occurrences
+RASP,keep,04054670: a coarse file with sharp pointed projections
+RATE,keep,13816649: a quantity or amount or measure considered as a proportion of another quantity or amount or measure
+RAVE,keep,06693744: an extravagantly enthusiastic review
+RAZZ,keep,07123870: a cry or noise made to express displeasure or contempt
+READ,exclude,no clear singular countable sense (heuristic)
+REAL,keep,13389577: an old small silver Spanish coin
+REAM,keep,13583137: a quantity of paper
+REAR,exclude,no clear singular countable sense (heuristic)
+REED,keep,02817799: a musical instrument that sounds by means of a vibrating reed
+REEF,keep,03458961: one of several strips across a sail that can be taken in or rolled up to lessen the area of the sail that is exposed to the wind
+REEK,keep,05714894: a distinctive odor that is offensively unpleasant
+REEL,keep,00539674: an American country dance which starts with the couples facing each other in two lines
+REIN,keep,04072551: one of a pair of long straps (usually connected to the bit or the headpiece) used to control a horse
+REIT,exclude,no clear singular countable sense (heuristic)
+RENT,keep,09410928: an opening made forcibly as by pulling apart
+REPP,keep,04075813: a fabric with prominent rounded crosswise ribs
+RESH,exclude,no clear singular countable sense (heuristic)
+REST,keep,04081044: a support on which things can be put
+RHEA,keep,01521399: larger of two tall fast-running flightless birds similar to ostriches but three-toed
+RIAL,exclude,no clear singular countable sense (heuristic)
+RICE,exclude,no clear singular countable sense (heuristic)
+RICH,exclude,no clear singular countable sense (heuristic)
+RICK,keep,07963208: a stack of hay
+RIDE,keep,00307631: a journey in a vehicle (usually an automobile)
+RIFF,keep,07045788: a jazz ostinato
+RIFT,keep,07313814: a personal or social separation (as between opposing factions)
+RILL,keep,09410460: a small channel (as one formed by soil erosion)
+RIMA,keep,05610008: a narrow elongated opening or fissure between two symmetrical parts
+RIME,exclude,no clear singular countable sense (heuristic)
+RIMU,exclude,no clear singular countable sense (heuristic)
+RIND,exclude,no clear singular countable sense (heuristic)
+RING,keep,02785191: a strip of material attached to the leg of a bird to identify it (as in studies of bird migration)
+RINK,exclude,no clear singular countable sense (heuristic)
+RIOT,keep,00511212: a wild gathering involving excessive drinking and promiscuity
+RISE,keep,05110408: an increase in cost
+RISK,keep,00802238: a venture undertaken without regard to possible loss or injury
+RITE,keep,01029406: an established ceremony prescribed by a religion
+ROAD,keep,00174003: a way or means to achieve something
+ROAN,keep,02375302: a horse having a brownish coat thickly sprinkled with white or gray
+ROAR,keep,07121361: a very loud utterance (like the sound of an animal)
+ROBE,exclude,no clear singular countable sense (heuristic)
+ROCK,keep,07064715: a genre of popular music originating in the 1950s
+ROLE,keep,05929008: an actor's portrayal of someone in a play
+ROLL,keep,00170340: a flight maneuver
+ROMP,keep,07475107: an easy victory
+ROOD,exclude,no clear singular countable sense (heuristic)
+ROOF,keep,04105068: a protective covering that covers or forms the top of a building
+ROOK,keep,01579410: common gregarious Old World bird about the size and color of the American crow
+ROOM,keep,04105893: an area within a building enclosed by walls and floor and ceiling
+ROOT,keep,06300445: a simple form inferred as the common basis from which related words in several languages can be derived by linguistic processes
+ROPE,keep,04108268: a strong line
+ROSE,keep,04971313: a dusty pink color
+ROSS,exclude,no clear singular countable sense (heuristic)
+ROTA,keep,06496862: a roster of names showing the order in which people should perform certain duties
+ROTE,exclude,no clear singular countable sense (heuristic)
+ROUE,keep,10505942: a dissolute man in fashionable society
+ROUT,keep,07476404: an overwhelming defeat
+RUBY,keep,04963588: a deep and vivid red color
+RUCK,keep,08183046: a crowd especially of ordinary or undistinguished persons or things
+RUDD,keep,01442710: European freshwater fish resembling the roach
+RUFF,keep,02030035: common Eurasian sandpiper
+RUGA,exclude,no clear singular countable sense (heuristic)
+RUIN,keep,04118635: a ruined building
+RULE,keep,05846054: a principle or condition that customarily governs behavior
+RUMP,keep,02463611: the part of an animal that corresponds to the human buttocks
+RUNE,exclude,no clear singular countable sense (heuristic)
+RUNG,keep,04119751: one of the crosspieces that form the steps of a ladder
+RUNT,exclude,no clear singular countable sense (heuristic)
+RUSE,keep,00172598: a deceptive maneuver (especially to avoid capture)
+RUSH,keep,07436352: a sudden burst of activity
+RUSK,exclude,no clear singular countable sense (heuristic)
+RUST,keep,14277655: a plant disease that produces a reddish-brown discoloration of leaves and stems
+RUTH,keep,07553964: a feeling of sympathy and sorrow for the misfortunes of others
+SACK,keep,03013438: a loose-fitting dress hanging straight from the shoulders without a waist
+SADE,exclude,no clear singular countable sense (heuristic)
+SAFE,keep,04125116: a ventilated or refrigerated cupboard for securing provisions from pests
+SAGA,keep,06370522: a narrative telling the adventures of a hero or a family
+SAGE,keep,10546202: a mentor in spiritual and philosophical topics who is renowned for profound wisdom
+SAGO,exclude,no clear singular countable sense (heuristic)
+SAIL,keep,00312932: an ocean trip taken for pleasure
+SAKE,keep,05143077: a reason for wanting something done
+SAKI,keep,02492948: small arboreal monkey of tropical South America with long hair and bushy nonprehensile tail
+SALE,keep,01114824: a particular instance of selling
+SALP,keep,01469723: minute floating marine tunicate having a transparent body with an opening at each end
+SALT,exclude,no clear singular countable sense (heuristic)
+SAME,exclude,no clear singular countable sense (heuristic)
+SAND,exclude,no clear singular countable sense (heuristic)
+SANG,exclude,no clear singular countable sense (heuristic)
+SARD,exclude,no clear singular countable sense (heuristic)
+SARI,keep,04136161: a dress worn primarily by Hindu women
+SASH,keep,03438071: a band of material around the waist that strengthens a skirt or trousers
+SASS,keep,06721949: an impudent or insolent rejoinder
+SAVE,exclude,no clear singular countable sense (heuristic)
+SCAB,keep,10554455: someone who works (or provides workers) during a strike
+SCAD,exclude,no clear singular countable sense (heuristic)
+SCAM,keep,00754280: a fraudulent business scheme
+SCAN,keep,04142549: an image produced by scanning
+SCAR,keep,04693900: an indication of damage
+SCAT,exclude,no clear singular countable sense (heuristic)
+SCOT,exclude,no clear singular countable sense (heuristic)
+SCOW,keep,04150273: a barge carrying bulk materials in an open hold
+SCUD,exclude,no clear singular countable sense (heuristic)
+SCUM,keep,04157703: a film of impurities or vegetation that can form on the surface of a liquid
+SCUP,keep,02593453: found in Atlantic coastal waters of North America from South Carolina to Maine
+SCUT,keep,02158739: a short erect tail
+SEAL,keep,04159058: a device incised to make an impression
+SEAM,keep,08659076: a stratum of ore or coal thick enough to be mined with profit
+SEAT,keep,04162599: a part of a machine that supports or guides another part
+SECT,keep,08149781: a subdivision of a larger religious group
+SEED,keep,10575463: one of the outstanding players in a tournament
+SEEK,exclude,no clear singular countable sense (heuristic)
+SEER,keep,10483530: an authoritative person who divines the future
+SELF,keep,09604981: a person considered as a unique individual
+SELL,exclude,no clear singular countable sense (heuristic)
+SEMI,keep,04172342: a trailer having wheels only in the rear
+SENT,exclude,no clear singular countable sense (heuristic)
+SEPT,exclude,no clear singular countable sense (heuristic)
+SERF,exclude,no clear singular countable sense (heuristic)
+SESS,exclude,no clear singular countable sense (heuristic)
+SETA,keep,01902022: a stiff hair or bristle
+SETH,exclude,no clear singular countable sense (heuristic)
+SETT,exclude,no clear singular countable sense (heuristic)
+SEXT,exclude,no clear singular countable sense (heuristic)
+SHAD,keep,02530421: herring-like food fishes that migrate from the sea to fresh water to spawn
+SHAG,keep,00533404: a lively dance step consisting of hopping on each foot in turn
+SHAH,exclude,no clear singular countable sense (heuristic)
+SHAM,keep,10201535: a person who makes deceitful pretenses
+SHAN,exclude,no clear singular countable sense (heuristic)
+SHAW,exclude,no clear singular countable sense (heuristic)
+SHAY,keep,03002555: a carriage consisting of two wheels and a calash top
+SHED,keep,04187547: an outbuilding with a single story
+SHIM,keep,04193883: a thin wedge of material (wood or metal or stone) for driving into crevices
+SHIN,exclude,no clear singular countable sense (heuristic)
+SHIP,keep,04194289: a vessel that carries passengers or freight
+SHIV,keep,04198722: a knife used as a weapon
+SHOE,keep,02890940: a restraint provided when the brake linings are moved hydraulically against the brake drum to retard the wheel's rotation
+SHOP,keep,00892254: a course of instruction in a trade (as carpentry or electricity)
+SHOT,keep,00788632: an attempt to score in a game
+SHOW,keep,06619065: a social event involving a public performance or entertainment
+SIAL,exclude,no clear singular countable sense (heuristic)
+SICK,exclude,no clear singular countable sense (heuristic)
+SIDE,keep,04213626: an extended outer surface of an object
+SIGH,keep,07129602: an utterance made by exhaling audibly
+SIGN,keep,06646243: a perceptible indication of something not immediately apparent (as a visible clue that something has happened)
+SIKA,exclude,no clear singular countable sense (heuristic)
+SILK,keep,04219424: a fabric made from the fine threads produced by certain insect larvae
+SILL,exclude,no clear singular countable sense (heuristic)
+SILO,keep,04220250: a cylindrical tower used for storing silage
+SILT,exclude,no clear singular countable sense (heuristic)
+SIMA,exclude,no clear singular countable sense (heuristic)
+SIND,exclude,no clear singular countable sense (heuristic)
+SINE,exclude,no clear singular countable sense (heuristic)
+SINK,keep,02998563: a covered cistern
+SION,exclude,no clear singular countable sense (heuristic)
+SIRE,keep,01323355: male parent of an animal especially a domestic animal such as a horse
+SISE,exclude,no clear singular countable sense (heuristic)
+SITE,keep,06359193: a computer connected to the internet that maintains a series of web pages on the World Wide Web
+SIVA,exclude,no clear singular countable sense (heuristic)
+SIZE,keep,05099231: a large magnitude
+SKAG,exclude,no clear singular countable sense (heuristic)
+SKAW,exclude,no clear singular countable sense (heuristic)
+SKEG,keep,04226322: a brace that extends from the rear of the keel to support the rudderpost
+SKEP,keep,04226962: a domed beehive made of twisted straw
+SKID,keep,00329031: an unexpected slide
+SKIM,keep,09436531: a thin layer covering the surface of a liquid
+SKIN,keep,01895735: body covering of a living animal
+SKIP,keep,00074624: a mistake resulting from neglect
+SKIT,keep,00551508: a short theatrical episode
+SKUA,keep,02044778: gull-like jaeger of northern seas
+SLAB,exclude,no clear singular countable sense (heuristic)
+SLAG,exclude,no clear singular countable sense (heuristic)
+SLAM,keep,06767922: an aggressive remark directed at a person like a missile and intended to have a telling effect
+SLAP,keep,07410745: a blow from a flat object (as an open hand)
+SLAT,exclude,no clear singular countable sense (heuristic)
+SLAW,exclude,no clear singular countable sense (heuristic)
+SLED,keep,04235291: a vehicle mounted on runners and pulled by horses or dogs
+SLEW,exclude,no clear singular countable sense (heuristic)
+SLIP,keep,00073828: a minor inadvertent mistake usually observed in speech or writing or in small accidents or memory lapses etc.
+SLIT,keep,04241940: a long narrow opening
+SLOB,keep,10612210: a coarse obnoxious person
+SLOE,keep,12649723: a thorny Eurasian bush with plumlike fruits
+SLOP,exclude,no clear singular countable sense (heuristic)
+SLOT,keep,04243370: a small slit (as for inserting a coin or depositing mail)
+SLUB,exclude,no clear singular countable sense (heuristic)
+SLUG,keep,02916350: a projectile that is fired from a gun
+SLUM,keep,08651832: a district of a city marked by poverty and inferior living conditions
+SLUR,keep,04694441: a blemish made by dirt
+SLUT,keep,09772930: a woman adulterer
+SMEW,keep,01855188: smallest merganser and most expert diver
+SMOG,exclude,no clear singular countable sense (heuristic)
+SMUT,keep,07124340: an offensive or indecent word or phrase
+SNAG,keep,05691144: an unforeseen obstacle
+SNAP,keep,04248209: a fastener used on clothing
+SNIP,keep,04250026: a small piece of anything (especially a piece that has been snipped off)
+SNOB,keep,10617024: a person regarded as arrogant and annoying
+SNOT,keep,10617024: a person regarded as arrogant and annoying
+SNOW,exclude,no clear singular countable sense (heuristic)
+SNUB,keep,01225997: a refusal to recognize someone you know
+SNUG,keep,03144365: a small secluded room
+SOAK,exclude,no clear singular countable sense (heuristic)
+SOAP,exclude,no clear singular countable sense (heuristic)
+SOAR,exclude,no clear singular countable sense (heuristic)
+SOCK,keep,07257582: a truncated cloth cone mounted on a mast
+SODA,exclude,no clear singular countable sense (heuristic)
+SOFA,keep,04256520: an upholstered seat for more than one person
+SOHO,exclude,no clear singular countable sense (heuristic)
+SOIL,exclude,no clear singular countable sense (heuristic)
+SOJA,exclude,no clear singular countable sense (heuristic)
+SOLE,keep,02663849: right-eyed flatfish
+SOLO,keep,00304729: a flight in which the aircraft pilot is unaccompanied
+SOMA,exclude,no clear singular countable sense (heuristic)
+SONG,keep,07048000: a short musical composition with words
+SOOT,exclude,no clear singular countable sense (heuristic)
+SOPH,keep,10625438: a second-year undergraduate
+SORB,exclude,no clear singular countable sense (heuristic)
+SORE,keep,14183065: an open skin infection
+SORT,keep,04746262: an approximate definition or example
+SOUL,keep,00007846: a human being
+SOUP,keep,13927112: an unfortunate situation
+SOUR,exclude,no clear singular countable sense (heuristic)
+SOYA,exclude,no clear singular countable sense (heuristic)
+SPAM,exclude,no clear singular countable sense (heuristic)
+SPAN,keep,02898711: a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc.
+SPAR,keep,04267577: a stout rounded pole of wood or metal used to support rigging
+SPAT,keep,01956344: a young oyster or other bivalve
+SPEC,keep,06725067: a detailed description of design criteria for a piece of work
+SPIN,keep,00101003: a distinctive interpretation (especially as used by politicians to sway public opinion)
+SPIT,keep,04280970: a skewer for holding meat over a fire
+SPIV,keep,10637038: a person without employment who makes money by various dubious schemes
+SPOT,keep,00072261: an act that brings discredit to the person who does it
+SPUD,keep,04289964: a sharp hand shovel for digging out roots and weeds
+SPUR,keep,02891430: a railway line connected to a trunk line
+STAB,keep,01173965: a strong blow with a knife or other sharp pointed instrument
+STAG,keep,02430559: adult male deer
+STAR,keep,06828389: a star-shaped character * used in printing
+STAY,keep,04307619: a thin strip of metal or bone that is used to stiffen a garment (e.g. a corset)
+STEM,keep,00441501: a turn made in skiing
+STEP,keep,00533922: a sequence of foot movements that make up a particular dance
+STEW,exclude,no clear singular countable sense (heuristic)
+STIR,keep,00555138: a rapid active commotion
+STOB,keep,04321453: a short straight stick of wood
+STOP,keep,01056411: a brief stay in the course of a journey
+STUB,keep,06520429: a torn part of a ticket returned to the holder as a receipt
+STUD,keep,02377291: adult male horse kept for breeding
+SUCK,exclude,no clear singular countable sense (heuristic)
+SUDS,exclude,possible plural or plural-only form
+SUER,keep,10672192: someone who petitions a court for redress of a grievance or recovery of a right
+SUET,exclude,no clear singular countable sense (heuristic)
+SUGI,exclude,no clear singular countable sense (heuristic)
+SUIT,keep,01182654: a comprehensive term for any proceeding in a court of law whereby an individual seeks a legal remedy
+SULK,keep,07551498: a mood or display of sullen aloofness or withdrawal
+SUMP,keep,02998563: a covered cistern
+SUNG,exclude,no clear singular countable sense (heuristic)
+SURA,keep,06461830: one of the sections (or chapters) in the Koran
+SURD,keep,07119897: a consonant produced without sound from the vocal cords
+SURF,exclude,no clear singular countable sense (heuristic)
+SWAB,exclude,no clear singular countable sense (heuristic)
+SWAD,keep,07960666: a bunch
+SWAG,keep,04368109: a bundle containing the personal belongings of a swagman
+SWAN,keep,01858441: stately heavy-bodied aquatic bird with very long neck and usually white plumage as adult
+SWAP,keep,01109687: an equal exchange
+SWAT,keep,00134391: a sharp blow
+SWAY,exclude,no clear singular countable sense (heuristic)
+SWIG,keep,00840189: a large and hurried swallow
+SWIM,exclude,no clear singular countable sense (heuristic)
+SWIZ,exclude,no clear singular countable sense (heuristic)
+SWOB,exclude,no clear singular countable sense (heuristic)
+SWOT,keep,10684630: an insignificant student who is ridiculed as being affected or boringly studious
+TABU,keep,04884302: an inhibition or ban resulting from social custom or emotional aversion
+TACH,exclude,no clear singular countable sense (heuristic)
+TACK,keep,04383130: a short nail with a sharp point and a large head
+TACT,exclude,no clear singular countable sense (heuristic)
+TAEL,keep,13719291: a unit of weight used in east Asia approximately equal to 1.3 ounces
+TAFT,exclude,no clear singular countable sense (heuristic)
+TAIL,keep,02157557: the posterior part of the body of a vertebrate especially when elongated and extending beyond the trunk or main part of the body
+TAKE,exclude,no clear singular countable sense (heuristic)
+TALA,exclude,no clear singular countable sense (heuristic)
+TALC,exclude,no clear singular countable sense (heuristic)
+TALE,keep,06757057: a trivial lie
+TALK,keep,07135734: an exchange of ideas via conversation
+TALL,keep,05097278: a garment size for a tall person
+TAMP,keep,"04387706: a tool for tamping (e.g., for tamping tobacco into a pipe bowl or a charge into a drill hole etc.)"
+TANG,keep,01405107: brown algae seaweed with serrated edges
+TANK,keep,03102771: a cell for violent prisoners
+TAPA,keep,04391445: a paperlike cloth made in the South Pacific by pounding tapa bark
+TAPE,keep,04391569: a long thin piece of cloth or paper as used for binding or fastening
+TAPS,exclude,possible plural or plural-only form
+TARA,exclude,no clear singular countable sense (heuristic)
+TARE,keep,13275137: an adjustment made for the weight of the packaging in order to determine the net weight of the goods
+TARN,keep,09454642: a mountain lake (especially one formed by glaciers)
+TARO,exclude,no clear singular countable sense (heuristic)
+TARP,exclude,no clear singular countable sense (heuristic)
+TART,keep,10485440: a woman who engages in sexual intercourse for money
+TASK,keep,00719705: a specific piece of work required to be done as a duty or for a specific fee
+TATE,exclude,no clear singular countable sense (heuristic)
+TATU,keep,02456008: about three feet long exclusive of tail
+TAXI,keep,02930766: a car driven by a person whose job is to take passengers where they want to go in exchange for money
+TEAK,exclude,no clear singular countable sense (heuristic)
+TEAL,keep,04968426: a blue-green color or pigment
+TEAM,keep,08208560: a cooperative unit (especially in sports)
+TEAR,keep,00510723: an occasion for excessive eating or drinking
+TEAT,exclude,no clear singular countable sense (heuristic)
+TECH,keep,08285246: a school teaching mechanical and industrial arts and the applied sciences
+TEEN,keep,09772029: a juvenile between the onset of puberty and maturity
+TEFF,keep,12120347: an African grass economically important as a cereal grass (yielding white flour of good quality) as well as for forage and hay
+TEJU,keep,01687128: large (to 3 feet) blackish yellow-banded South American lizard
+TELL,exclude,no clear singular countable sense (heuristic)
+TEMP,keep,10699415: a worker (especially in an office) hired on a temporary basis
+TENT,keep,04411264: a portable shelter (usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs)
+TERA,exclude,no clear singular countable sense (heuristic)
+TERM,keep,06303888: a word or expression used for some particular thing
+TERN,exclude,no clear singular countable sense (heuristic)
+TEST,keep,01904699: a hard outer covering as of some amoebas and sea urchins
+TETH,exclude,no clear singular countable sense (heuristic)
+TEXT,keep,06414372: a book prepared for use in schools or colleges
+THAW,keep,07443539: a relaxation or slackening of tensions or reserve
+THEN,exclude,no clear singular countable sense (heuristic)
+THOU,exclude,no clear singular countable sense (heuristic)
+THUD,keep,07396945: a heavy dull sound (as made by impact of heavy objects)
+THUG,keep,10184081: an aggressive and violent young criminal
+THUS,exclude,no clear singular countable sense (heuristic)
+TICK,keep,04432308: a light mattress
+TIDE,exclude,no clear singular countable sense (heuristic)
+TIDY,exclude,no clear singular countable sense (heuristic)
+TIER,keep,04433905: one of two or more layers one atop another
+TIFF,keep,07184735: a quarrel about petty points
+TILE,keep,04435180: a flat thin rectangular slab (as of fired clay or rubber or linoleum) used to cover surfaces
+TILL,keep,02976939: a strongbox for holding cash
+TILT,keep,06202296: a slight but noticeable partiality
+TIME,keep,07288215: a person's experience on a particular occasion
+TINE,exclude,no clear singular countable sense (heuristic)
+TING,keep,07398097: a light clear metallic sound as of a small bell
+TINT,keep,04959230: a quality of a given color that differs slightly from another color
+TIRE,exclude,no clear singular countable sense (heuristic)
+TITI,exclude,no clear singular countable sense (heuristic)
+TOAD,exclude,no clear singular countable sense (heuristic)
+TOBY,keep,04443766: a drinking mug in the shape of a stout man wearing a three-cornered hat
+TODY,keep,01831360: tiny insectivorous West Indian bird having red-and-green plumage and a long straight bill
+TOFF,exclude,no clear singular countable sense (heuristic)
+TOFU,exclude,no clear singular countable sense (heuristic)
+TOGA,keep,04445040: a one-piece cloak worn by men in ancient Rome
+TOGS,exclude,possible plural or plural-only form
+TOIL,exclude,no clear singular countable sense (heuristic)
+TOKE,keep,00837965: a puff of a marijuana or hashish cigarette
+TOLE,exclude,no clear singular countable sense (heuristic)
+TOLL,keep,13323749: a fee levied for the use of roads or bridges (used for maintenance)
+TOLU,exclude,no clear singular countable sense (heuristic)
+TOMB,keep,03455033: a place for the burial of a corpse (especially beneath the ground and marked by a tombstone)
+TOME,keep,06413579: a (usually) large and scholarly book
+TONE,keep,04959230: a quality of a given color that differs slightly from another color
+TOOL,keep,04451818: an implement used in the practice of a vocation
+TOON,keep,06616464: a film made by photographing a series of cartoon drawings to give the illusion of movement when projected in rapid sequence
+TOOT,keep,07398276: a blast of a horn
+TOPE,keep,04346328: a dome-shaped shrine erected by Buddhists
+TOPI,keep,02422391: a large South African antelope
+TORE,exclude,no clear singular countable sense (heuristic)
+TORT,exclude,no clear singular countable sense (heuristic)
+TORY,exclude,no clear singular countable sense (heuristic)
+TOSH,exclude,no clear singular countable sense (heuristic)
+TOSS,keep,00345817: an abrupt movement
+TOTE,keep,02970408: a capacious bag or basket
+TOUR,keep,00310666: a journey or route all the way around a particular place or area
+TOUT,keep,10712835: one who sells advice about gambling or speculation (especially at the racetrack)
+TOWN,keep,08665504: an urban area with a fixed boundary that is smaller than a city
+TRAM,keep,04335435: a wheeled vehicle that runs on rails and is propelled by electricity
+TRAP,keep,02920369: a hazard on a golf course
+TRAY,keep,04476259: an open receptacle for holding or displaying or serving articles or food
+TREE,keep,13104059: a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown
+TREK,keep,00310516: a journey by ox wagon (especially an organized migration by a group of settlers)
+TREY,exclude,no clear singular countable sense (heuristic)
+TRIG,exclude,no clear singular countable sense (heuristic)
+TRIM,keep,04484160: a decoration or adornment on a garment
+TRIO,keep,07041595: a musical composition for three performers
+TRIP,keep,00076563: an unintentional but embarrassing blunder
+TROT,keep,00287561: a gait faster than a walk
+TROY,keep,13716490: a system of weights used for precious metals and gemstones
+TRUE,exclude,no clear singular countable sense (heuristic)
+TSAR,keep,09987239: a male monarch or emperor (especially of Russia prior to 1917)
+TUBA,exclude,no clear singular countable sense (heuristic)
+TUBE,keep,03757138: an electric railway operating below the surface of the ground (usually in a city)
+TUCK,keep,04054361: a straight sword with a narrow blade and two edges
+TUFA,exclude,no clear singular countable sense (heuristic)
+TUFF,exclude,no clear singular countable sense (heuristic)
+TUFT,keep,01325775: a bunch of feathers or hair
+TUNA,keep,02527057: New Zealand eel
+TUNE,keep,07028373: a succession of notes forming a distinctive sequence
+TUNG,exclude,no clear singular countable sense (heuristic)
+TURD,exclude,no clear singular countable sense (heuristic)
+TURF,exclude,no clear singular countable sense (heuristic)
+TURK,exclude,no clear singular countable sense (heuristic)
+TURN,keep,01227083: a favor for someone
+TURP,exclude,no clear singular countable sense (heuristic)
+TUSH,exclude,no clear singular countable sense (heuristic)
+TUSK,keep,01465713: a long pointed tooth specialized for fighting or digging
+TUTU,exclude,no clear singular countable sense (heuristic)
+TWAT,keep,10157744: a man who is a stupid incompetent fool
+TWIG,keep,13163991: a small branch or division of a branch (especially a terminal division)
+TWIN,keep,03117939: a duplicate copy
+TWIT,keep,10734129: someone who is regarded as contemptible
+TYKE,keep,09917593: a young person of either sex
+TYPE,keep,04504486: a small metal block bearing a raised character on one end
+TYPO,keep,06769670: a mistake in printed matter resulting from mechanical failures of some kind
+TYRE,exclude,no clear singular countable sense (heuristic)
+TYRO,keep,10363913: someone new to a field or activity
+VALE,keep,09468604: a long depression in the surface of the land that usually contains a river
+VALI,exclude,no clear singular countable sense (heuristic)
+VAMP,keep,07032206: an improvised musical accompaniment
+VANE,keep,01897991: the flattened weblike part of a feather consisting of a series of barbs on either side of the shaft
+VARA,keep,13652661: a Spanish unit of length (about a yard) having different values in different localities
+VASE,keep,04522168: an open jar of glass or porcelain used as an ornament or to hold flowers
+VEAL,exclude,no clear singular countable sense (heuristic)
+VEIL,keep,03502331: a garment that covers the head and face
+VEIN,keep,02468735: one of the horny ribs that stiffen and support the wing of an insect
+VELA,exclude,irregular plural form
+VENT,keep,01323901: external opening of urinary or genital system of a lower vertebrate
+VERB,keep,"06320569: a content word that denotes an action, occurrence, or state of existence"
+VEST,keep,04223299: a collarless men's undergarment for the upper part of the body
+VETO,keep,00209546: a vote that blocks a decision
+VIAL,keep,03923379: a small bottle that contains a drug (especially a sealed sterile container for injection by needle)
+VICE,keep,00747029: a specific form of evildoing
+VIEW,keep,05945642: a personal belief or judgment that is not founded on proof or certainty
+VILA,exclude,no clear singular countable sense (heuristic)
+VINE,keep,"13100677: a plant with a weak stem that derives support from climbing, twining, or creeping along a surface"
+VINO,exclude,no clear singular countable sense (heuristic)
+VIOL,exclude,no clear singular countable sense (heuristic)
+VISA,keep,06687883: an endorsement made in a passport that allows the bearer to enter the country issuing it
+VISE,keep,04538552: a holding device attached to a workbench
+VIVA,keep,07198846: an examination conducted by spoken communication
+VOID,keep,13910116: an empty area or space
+VOLE,exclude,no clear singular countable sense (heuristic)
+VOLT,keep,13643276: a unit of potential equal to the potential difference between two points on a conductor carrying a current of 1 ampere when the power dissipated between the two points is 1 watt
+VOTE,keep,00183505: a choice that is made by counting the number of people in favor of each alternative
+WADE,exclude,no clear singular countable sense (heuristic)
+WADI,exclude,no clear singular countable sense (heuristic)
+WAFT,keep,03911866: a long flag
+WAGE,exclude,no clear singular countable sense (heuristic)
+WAIF,keep,10763075: a homeless child especially one forsaken or orphaned
+WAIL,keep,07211950: a cry of sorrow and grief
+WAIN,exclude,no clear singular countable sense (heuristic)
+WAIT,exclude,no clear singular countable sense (heuristic)
+WAKE,keep,01029883: a vigil held over a corpse the night before burial
+WALE,keep,14298620: a raised mark on the skin (as produced by the blow of a whip)
+WALK,keep,00287142: a slow gait of a horse in which two feet are always on the ground
+WALL,keep,04051825: an embankment built around a space for defensive purposes
+WAND,keep,02809364: a thin tapered rod used by a conductor to lead an orchestra or choir
+WANE,keep,13470491: a gradual decline (in size or strength or power or number)
+WANT,keep,07486229: a specific feeling of desire
+WARD,keep,02992032: a division of a prison (usually consisting of several cells)
+WARE,exclude,no clear singular countable sense (heuristic)
+WARP,keep,07434102: a moral or mental distortion
+WART,keep,14464883: an imperfection in someone or something that is suggestive of a wart (especially in smallness or unattractiveness)
+WASH,keep,04553245: a watercolor made by applying a series of monochrome washes one over the other
+WASP,keep,02212062: social or solitary hymenopterans typically having a slender body with the abdomen attached by a narrow stalk and having a formidable sting
+WATT,keep,13644522: a unit of power equal to 1 joule per second
+WAVE,keep,00346095: a movement like that of a sudden occurrence or increase in a specified phenomenon
+WAYS,exclude,possible plural or plural-only form
+WEAL,keep,14298620: a raised mark on the skin (as produced by the blow of a whip)
+WEAR,keep,03051540: a covering designed to be worn on a person's body
+WEED,keep,04570680: a black band worn by a man (on the arm or hat) as a sign of mourning
+WEEK,keep,15136147: a period of seven consecutive days starting on Sunday
+WEFT,exclude,no clear singular countable sense (heuristic)
+WEIR,keep,04571566: a low dam built across a stream to raise its level or divert its flow
+WEKA,keep,02015357: flightless New Zealand rail of thievish disposition having short wings each with a spur used in fighting
+WELD,keep,04571958: a metal joint formed by softening with heat and fusing or hammering together
+WELL,keep,04572344: a deep hole or shaft dug or drilled to obtain water or oil or gas or brine
+WELT,keep,04573281: a raised or strengthened seam
+WEST,keep,"08561835: a location in the western part of a country, region, or city"
+WHEY,exclude,no clear singular countable sense (heuristic)
+WHIG,exclude,no clear singular countable sense (heuristic)
+WHIM,keep,05919549: an odd or fanciful or capricious idea
+WHIN,exclude,no clear singular countable sense (heuristic)
+WHIP,keep,00134574: a quick blow delivered with a whip or whiplike object
+WHIR,exclude,no clear singular countable sense (heuristic)
+WHIT,keep,13773725: a tiny or scarcely detectable amount
+WHIZ,keep,07400361: a buzzing or hissing sound as of something traveling rapidly through the air
+WICK,keep,04581829: a loosely woven cord (in a candle or oil lamp) that draws fuel by capillary action up into the flame
+WIFE,keep,10780632: a married woman
+WILD,keep,08683548: a wild and uninhabited area left in its natural condition
+WILE,exclude,no clear singular countable sense (heuristic)
+WILL,keep,05983654: a fixed and persistent intent or purpose
+WILT,exclude,no clear singular countable sense (heuristic)
+WIMP,keep,"10781817: a person who lacks confidence, is irresolute and wishy-washy"
+WIND,keep,00839597: a reflex that expels intestinal gas through the anus
+WINE,keep,04964162: a red as dark as red wine
+WING,keep,02151625: a movable organ for flying (one of a pair)
+WINK,keep,00117959: a reflex that closes and opens the eyes rapidly
+WIPE,exclude,no clear singular countable sense (heuristic)
+WIRE,keep,04594489: a metal conductor that carries electricity over a distance
+WISE,keep,04931733: a way of doing or being
+WISH,keep,07185870: an expression of some desire or inclination
+WISP,keep,07960928: a small tuft or lock
+WOAD,exclude,no clear singular countable sense (heuristic)
+WOLD,keep,08645318: a tract of open rolling country (especially upland)
+WOLF,keep,09845589: a cruelly rapacious person
+WOMB,keep,05519085: a hollow muscular organ in the pelvic cavity of females
+WONT,keep,05669034: an established custom
+WOOD,keep,04597066: a golf club with a long shaft used to hit long shots
+WOOF,exclude,no clear singular countable sense (heuristic)
+WOOL,keep,01899593: outer coat of especially sheep and yaks
+WORD,keep,06286395: a unit of language that native speakers can identify
+WORK,keep,04599396: a product produced or accomplished through the effort or activity or agency of a person or thing
+WORM,keep,06586098: a software program capable of reproducing itself that can spread from one computer to the next over a network
+WORT,exclude,no clear singular countable sense (heuristic)
+WRAP,exclude,no clear singular countable sense (heuristic)
+WREN,exclude,no clear singular countable sense (heuristic)
+WRIT,exclude,no clear singular countable sense (heuristic)
+WUSS,keep,10771636: a person who is physically weak and ineffectual
+YAGI,keep,04610274: a sharply directional antenna
+YALE,exclude,no clear singular countable sense (heuristic)
+YANG,exclude,no clear singular countable sense (heuristic)
+YANK,exclude,no clear singular countable sense (heuristic)
+YARD,keep,04610503: an enclosure for animals (as chicken or livestock)
+YARN,keep,04426788: a fine cord of twisted fibers (of cotton or silk or wool or nylon etc.) used in sewing and weaving
+YAWL,keep,04612373: a sailing vessel with two masts
+YAWN,keep,00837293: an involuntary intake of breath through a wide open mouth
+YAWS,exclude,possible plural or plural-only form
+YEAR,keep,08238660: a body of students who graduate together
+YELL,keep,07120524: a loud utterance
+YELP,keep,07400552: a sharp high-pitched cry (especially by a dog)
+YODH,exclude,no clear singular countable sense (heuristic)
+YOGA,keep,00630960: a system of exercises practiced as part of the Hindu discipline to promote control of the body and mind
+YOGI,keep,10803978: one who practices yoga and has achieved a high level of spiritual insight
+YOKE,keep,04613158: a connection (like a clamp or vise) between two things so they move together
+YOLK,exclude,no clear singular countable sense (heuristic)
+YORE,exclude,no clear singular countable sense (heuristic)
+YORK,exclude,no clear singular countable sense (heuristic)
+YOWL,keep,07121361: a very loud utterance (like the sound of an animal)
+YUAN,exclude,no clear singular countable sense (heuristic)
+YULE,exclude,no clear singular countable sense (heuristic)
+YURT,keep,04613696: a circular domed dwelling that is portable and self-supporting
+ZANY,keep,10157744: a man who is a stupid incompetent fool
+ZARF,keep,04614244: an ornamental metal cup-shaped holder for a hot coffee cup
+ZEAL,keep,07555402: a feeling of strong eagerness (usually in favor of a person or cause)
+ZEBU,keep,02404906: domesticated ox having a humped back and long horns and a large dewlap
+ZERO,keep,13740168: a quantity of no importance
+ZEST,keep,04993108: a tart spicy quality
+ZETA,exclude,no clear singular countable sense (heuristic)
+ZINC,exclude,no clear singular countable sense (heuristic)
+ZING,keep,07400701: a brief high-pitched buzzing or humming sound
+ZIZZ,keep,00858742: a nap
+ZONE,keep,08509442: an area or region distinguished from adjacent parts by a distinctive feature or characteristic
+ZOOM,keep,07375525: a rapid rise

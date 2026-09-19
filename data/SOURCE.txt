@@ -1,0 +1,53 @@
+Source: macOS /usr/share/dict/web2 (Webster second edition word list).
+Extracted lowercase four-letter ASCII alphabetic entries; capitalized entries
+were excluded to reduce proper names. Uppercased and deduplicated for display.
+Includes rare and archaic words; not an exhaustive modern English dictionary.
+
+Original source notes:
+
+#	@(#)README	8.1 (Berkeley) 6/5/93
+# $FreeBSD$
+
+WEB ---- (introduction provided by jaw@riacs) -------------------------
+
+Welcome to web2 (Webster's Second International) all 234,936 words worth.
+The 1934 copyright has lapsed, according to the supplier.  The
+supplemental 'web2a' list contains hyphenated terms as well as assorted
+noun and adverbial phrases.  The wordlist makes a dandy 'grep' victim.
+
+     -- James A. Woods    {ihnp4,hplabs}!ames!jaw    (or jaw@riacs)
+
+Country names are stored in the file /usr/share/misc/iso3166.
+
+
+FreeBSD Maintenance Notes ---------------------------------------------
+
+Note that FreeBSD is not maintaining a historical document, we're
+maintaining a list of current [American] English spellings.
+
+A few words have been removed because their spellings have depreciated.
+This list of words includes:
+    corelation (and its derivatives)	"correlation" is the preferred spelling
+    freen				typographical error in original file
+    freend				archaic spelling no longer in use;
+					masks common typo in modern text
+
+--
+
+A list of technical terms has been added in the file 'freebsd'.  This
+word list contains FreeBSD/Unix lexicon that is used by the system
+documentation.  It makes a great ispell(1) personal dictionary to
+supplement the standard English language dictionary.
+
+Noun filter: intersected the extracted words with WordNet 3.0 index.noun.
+A word is kept when it has at least one noun sense; it may also be a verb
+or another part of speech. Exact dictionary lemmas only, no invented plurals.
+WordNet source: https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/wordnet.zip
+WordNet license: WORDNET_LICENSE.txt
+
+Display constraint: excluded all nouns beginning with A, E, I, O, or U.
+
+Article/countability pass: scripts/filter_nouns.py uses WordNet senses,
+plural exceptions, definition heuristics, substance ancestry, and article
+exceptions. This is an approximate conservative filter, not countability
+annotation from WordNet. Original candidates and decision audit are retained.
