@@ -5,13 +5,16 @@ import random
 
 
 class WordPool:
-    def __init__(self, path=None, rng=None, initial='SIGN'):
-        path = Path(path) if path else Path(__file__).parent / 'data' / 'four_letter_words.txt'
+    def __init__(self, path=None, rng=None, initial='SIGN', word_length=4):
+        if word_length not in (3, 4):
+            raise ValueError('Word length must be 3 or 4')
+        filename = 'three_letter_words.txt' if word_length == 3 else 'four_letter_words.txt'
+        path = Path(path) if path else Path(__file__).parent / 'data' / filename
         self.words = sorted({line.strip().upper() for line in path.read_text().splitlines()
-                             if len(line.strip()) == 4 and line.strip().isascii()
+                             if len(line.strip()) == word_length and line.strip().isascii()
                              and line.strip().isalpha()})
         if len(self.words) < 2:
-            raise ValueError('The dictionary needs at least two four-letter A–Z words.')
+            raise ValueError(f'The dictionary needs at least two {word_length}-letter A–Z words.')
         self.rng = rng if rng is not None else random.Random()
         self.last = initial
         self.remaining = [word for word in self.words if word != initial]

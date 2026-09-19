@@ -51,3 +51,7 @@ Article/countability pass: scripts/filter_nouns.py uses WordNet senses,
 plural exceptions, definition heuristics, substance ancestry, and article
 exceptions. This is an approximate conservative filter, not countability
 annotation from WordNet. Original candidates and decision audit are retained.
+
+Three-letter pool: same lowercase macOS web2 intersection with WordNet nouns,
+consonant-initial constraint, and scripts/filter_nouns.py article/countability
+heuristics, with word length 3. Separate candidate and audit files preserved.

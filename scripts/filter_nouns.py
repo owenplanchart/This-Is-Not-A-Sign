@@ -13,7 +13,9 @@ from zipfile import ZipFile
 ROOT = Path(__file__).resolve().parents[1]
 
 
-def main(archive):
+def main(archive, word_length=4):
+    if word_length not in (3, 4):
+        raise ValueError("Word length must be 3 or 4")
     with ZipFile(archive) as z:
         lines = z.read('wordnet/data.noun').decode().splitlines()
         exceptions = {line.split()[0] for line in z.read('wordnet/noun.exc').decode().splitlines()}
@@ -40,7 +42,15 @@ def main(archive):
         return any(substance(target) for kind, target, pos, _ in pointers
                    if kind == '@' and pos == 'n')
 
-    candidates = (ROOT / 'data/noun_candidates.txt').read_text().splitlines()
+    if word_length == 3:
+        source = Path('/usr/share/dict/web2').read_text().splitlines()
+        candidates = sorted({word.upper() for word in source
+                             if len(word) == 3 and word.isascii() and word.isalpha()
+                             and word.islower() and word[0] not in 'aeiou'
+                             and word in by_word})
+        (ROOT / 'data/three_letter_noun_candidates.txt').write_text('\n'.join(candidates) + '\n')
+    else:
+        candidates = (ROOT / 'data/noun_candidates.txt').read_text().splitlines()
     kept, audit = [], []
     for upper in candidates:
         word = upper.lower()
@@ -71,8 +81,10 @@ def main(archive):
         if not reason:
             kept.append(upper)
         audit.append((upper, 'exclude' if reason else 'keep', reason or evidence))
-    (ROOT / 'data/four_letter_words.txt').write_text('\n'.join(kept) + '\n')
-    with (ROOT / 'data/noun_filter_audit.csv').open('w', newline='') as f:
+    output_name = 'three_letter_words.txt' if word_length == 3 else 'four_letter_words.txt'
+    audit_name = 'three_letter_noun_filter_audit.csv' if word_length == 3 else 'noun_filter_audit.csv'
+    (ROOT / 'data' / output_name).write_text('\n'.join(kept) + '\n')
+    with (ROOT / 'data' / audit_name).open('w', newline='') as f:
         writer = csv.writer(f)
         writer.writerow(('word', 'decision', 'reason_or_evidence'))
         writer.writerows(audit)
@@ -80,4 +92,4 @@ def main(archive):
 
 
 if __name__ == '__main__':
-    main(sys.argv[1])
+    main(sys.argv[1], int(sys.argv[2]) if len(sys.argv) > 2 else 4)

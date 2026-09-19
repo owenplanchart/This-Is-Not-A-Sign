@@ -92,12 +92,38 @@ changes the random pattern, while changing the preset changes its character.
 
 A Python / Pygame sketch of a four-character mechanical split-flap board.
 Displays **THIS IS NOT A SIGN** in a single row of matching split-flap tiles.
-The letters in **THIS IS NOT A** stay still. Spaces use matching blank tiles,
+In the default **1Word** mode, the letters in **THIS IS NOT A** stay still. Spaces use matching blank tiles,
 including the same centre seam and hinges.
 The display starts with **SIGN**, then randomly selects four-letter dictionary
 nouns beginning with consonants, holding each finished word for 2.8 seconds. Every word appears once per
 shuffled cycle, without an immediate repeat when a new cycle starts. Letters flip through the alphabet with
-staggered starts; the preceding tiles stay fixed.
+staggered starts. In **2Word** mode, the first word alternates **THIS / THAT**
+after each noun change has finished: the noun flips first, then THIS/THAT.
+** IS NOT A ** and all blank tiles stay fixed.
+Only changing letters in THIS/THAT flip, using the selected sound.
+In 2Word, the noun settles, waits 1 second, then THIS/THAT flips.
+Once THIS/THAT settles, another 1-second pause precedes the next noun.
+1Word retains its 2.8-second hold.
+
+Press **1** for 1Word or **2** for 2Word. A switch waits for any active
+transition to finish, and while paused it waits for resume. Returning to 1Word
+flips THAT back to THIS before continuing. You can also start in 2Word:
+
+```sh
+.venv/bin/python main.py --mode 2Word
+```
+
+**3Word** adds a random NOT / blank choice alongside THIS/THAT. After the noun
+settles and the 1-second pause ends, THIS/THAT flips and NOT's three tiles
+start their transition at the same time if their state changes. Each cycle
+independently chooses NOT or three blanks with equal probability; consecutive
+cycles can keep the same state. Blank tiles retain their seams and hinges.
+The next 1-second pause starts only once both groups have settled.
+
+Press **3** or launch with `.venv/bin/python main.py --mode 3Word`.
+Returning to 1Word or 2Word restores NOT; returning to 1Word also restores THIS.
+Mode switches continue to wait for the current cycle and for pause to end.
+
 
 ```sh
 python3 -m venv .venv
@@ -128,6 +154,7 @@ mute.
 | Right Arrow | Next word once the current word has settled (while running) |
 | Up / Down | Select and preview a sound |
 | M | Mute / unmute |
+| 1 / 2 / 3 / 4 | Select 1Word / 2Word / 3Word / 4Word mode |
 | G | Hide / show all labels, status text, and keyboard hints |
 | Q or Escape | Quit |
 
@@ -195,3 +222,30 @@ Proposed integration outline (not implemented):
    matching tiles for the prefix and four motorized modules for the final word.
 6. Tune the pauses and transitions to the hardware, then test sustained use.
    Use the mechanisms' natural sound when running the physical display.
+
+## 4Word mode
+
+Press **4**, or run `.venv/bin/python main.py --mode 4Word`.
+THIS/THAT keeps alternating. Each update independently selects:
+
+- **30%:** `THIS/THAT MUST BE A CAT` (a three-letter noun).
+- **35%:** `THIS/THAT IS NOT A SIGN` (a four-letter noun).
+- **35%:** `THIS/THAT IS     A SIGN` (a four-letter noun, with NOT blank).
+
+The 70% ordinary branch retains the 50/50 NOT-versus-blank choice. These are
+probabilities, not fixed quotas. The noun changes first; after it settles and
+a 1-second pause, THIS/THAT and the middle phrase start flipping together.
+The next noun waits until the full phrase settles, plus another second.
+When leaving MUST BE A for a four-letter noun, the middle phrase changes first
+and settles before the noun flips. This also applies when leaving mode 4, so
+MUST BE A never remains visible over a four-letter noun.
+
+Both layouts occupy 18 physical tiles. The three-letter noun aligns to the
+right, leaving its preceding tile blank so MUST BE A fits without resizing.
+The 331 three-letter nouns use the same noun, consonant, article and approximate
+countability rules as the four-letter pool. Each pool shuffles independently
+without repeats until exhausted. Source candidates and a filter audit are in
+`data/three_letter_noun_candidates.txt` and `data/three_letter_noun_filter_audit.csv`.
+To rebuild on macOS, run `python scripts/filter_nouns.py /path/to/wordnet.zip 3`.
+Returning to modes 1–3 restores the IS NOT A layout and a four-letter noun;
+1Word also restores THIS. No mode change interrupts an active cycle.
