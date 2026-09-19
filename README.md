@@ -197,6 +197,21 @@ The application uses the bundled filtered list and needs no dictionary download.
 - Project: [scottbez1/splitflap](https://github.com/scottbez1/splitflap).
 - Integration example: [Chainlink Python demo and software](https://github.com/scottbez1/splitflap/tree/master/software/chainlink).
 
+#### Making the flap cards
+
+- [DIY flap-making guide](https://github.com/scottbez1/splitflap/blob/master/docs/Flaps.md#option-3-diy-flaps): make flaps from CR80 PVC ID cards.
+- [Build a cutting jig](https://github.com/scottbez1/splitflap/blob/master/docs/Flaps.md#31-build-a-flap-cutting-jig): position cards consistently in a badge-slot punch; includes a 3D-printable jig option.
+- [Cut the flaps](https://github.com/scottbez1/splitflap/blob/master/docs/Flaps.md#32-cut-flaps): score and snap cards in half, then punch side notches to form the pivot pins.
+- [Apply letter stickers](https://github.com/scottbez1/splitflap/blob/master/docs/Flaps.md#33-apply-letter-stickers): vinyl lettering, including custom designs for Cricut/Silhouette cutters.
+
+#### Laser-cut enclosures and assembly
+
+- [Mechanics v2 release — 52-flap module files](https://github.com/scottbez1/splitflap/releases/tag/releases/mechanics/v2#52-flap-module-option---recommended): stable enclosure and internal mechanical cutting files. Under **Artifacts**, choose generic SVG (0.18 mm kerf compensation), Ponoko 3 mm MDF/acrylic SVG, or Elecrow 3 mm wood/acrylic zipped PDF to suit the fabrication method.
+- [40-flap module files](https://github.com/scottbez1/splitflap/releases/tag/releases/mechanics/v2#40-flap-module-option): alternative cutting files for the smaller flap set.
+- [v2 assembly guide](https://github.com/scottbez1/splitflap/blob/master/docs/v2/Assembly.md): panel, drum, flap, and electronics assembly instructions.
+
+#### Hardware integration
+
 This reference uses split-flap letter modules, matching our current visual
 design. A flip-dot board instead forms letters from a matrix of individual
 discs and would need a bitmap font and a different hardware driver.
