@@ -90,3 +90,39 @@ The 1,754 pre-filter candidates are preserved in `data/noun_candidates.txt`.
 `data/noun_filter_audit.csv` records every keep/exclude decision for later
 curation. Rebuild with `python scripts/filter_nouns.py /path/to/wordnet.zip`.
 The application uses the bundled filtered list and needs no dictionary download.
+
+## Next steps
+
+- Consider how this would work if we were to communicate with a real flip dot board.
+
+### Hardware reference
+
+- Video: [How a Split-Flap Display Works — scottbez1](https://www.youtube.com/watch?v=UAQJJAQSg_g).
+- Project: [scottbez1/splitflap](https://github.com/scottbez1/splitflap).
+- Integration example: [Chainlink Python demo and software](https://github.com/scottbez1/splitflap/tree/master/software/chainlink).
+
+This reference uses split-flap letter modules, matching our current visual
+design. A flip-dot board instead forms letters from a matrix of individual
+discs and would need a bitmap font and a different hardware driver.
+
+The splitflap repository includes mechanical designs, electronics, and ESP32
+firmware. Its Chainlink driver handles six modules per board; the firmware
+supports USB serial control and sensor-based calibration. The Python demo
+sends changing words to a connected display. See its
+[serial protocol documentation](https://github.com/scottbez1/splitflap#serial-protocol)
+before implementing an adapter.
+
+Proposed integration outline (not implemented):
+
+1. Confirm the hardware version, character set, controller, and power needs.
+2. Keep noun selection separate from output, with a screen renderer and a
+   hardware adapter receiving the same target word.
+3. Prototype four physical modules for the changing word, using the reference
+   Python demo before connecting our own selection logic.
+4. Send target characters and let the controller handle motor movement;
+   wait for completion and handle faults or reconnects before the next word.
+5. Extend to the full phrase, keeping the prefix and blank spaces fixed.
+   Our layout has 18 positions including spaces; alternatively, use static
+   matching tiles for the prefix and four motorized modules for the final word.
+6. Tune the pauses and transitions to the hardware, then test sustained use.
+   Use the mechanisms' natural sound when running the physical display.
