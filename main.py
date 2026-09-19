@@ -13,6 +13,7 @@ from word_pool import WordPool
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--snapshot', metavar='PATH', help='save a still and exit')
+    parser.add_argument('--sound-preset', metavar='JSON', help='load a sound workshop preset')
     args = parser.parse_args()
     if args.snapshot:
         os.environ['SDL_VIDEODRIVER'] = 'dummy'
@@ -21,7 +22,11 @@ def main():
 
     pygame.mixer.pre_init(44100, -16, 2, 512)
     pygame.init()
-    flip_sound = FlipSound(pygame, enabled=not args.snapshot)
+    try:
+        flip_sound = FlipSound(pygame, enabled=not args.snapshot, workshop_preset=args.sound_preset)
+    except (OSError, ValueError, TypeError, KeyError) as error:
+        pygame.quit()
+        parser.error(f'Could not load sound preset: {error}')
     screen = pygame.display.set_mode((1200, 420))
     pygame.display.set_caption('flipChart — THIS IS NOT A SIGN')
     clock = pygame.time.Clock()

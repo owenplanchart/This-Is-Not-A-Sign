@@ -1,5 +1,74 @@
 # flipChart
 
+## Interactive sound workshop
+
+Run the workshop separately from the sign:
+
+```sh
+cd "/Users/owenplanchart/Developer/Python/split flap sign"
+.venv/bin/python sound_workshop.py
+```
+
+The workshop starts from the Loose Clatter sound character. Drag a slider and
+release to hear the change. Six controls adjust impact brightness, noise/body
+balance, body pitch, decay, flip density, and timing irregularity. Density and
+timing apply to **Full update** mode; **Single flip** isolates one impact.
+**Volume** changes listening level separately. Audio is approximately level
+matched with peak headroom; this is not a perceptual loudness guarantee.
+
+- **Play / Stop:** audition the current sound; Space also plays/stops.
+- **Loop + gap:** repeat with a 600 ms pause so updates remain distinct.
+- **Randomness locked:** repeat the same pattern while adjusting parameters.
+  Unlock to generate a new pattern on each play or adjustment. **New pattern**
+  changes the seed even while locked.
+- **Store B as A:** preserve your current settings and seed as a reference.
+  **Listening: A/B** or Tab switches between that reference and your edits.
+  Both use the current listening mode and volume. Editing a slider returns to B.
+- **Reset Loose Clatter:** restore the starting parameters in B.
+- **Save preset:** type a name, then Enter. Backspace edits; Escape cancels.
+  Existing names are protected from overwriting.
+- **Load preset:** use Up/Down to choose a saved preset, then Enter to load and
+  audition. Parameters, seed, listening mode, and volume are restored.
+- **Export WAV:** save the selected A/B sound at the current listening volume,
+  plus a JSON preset alongside it. Files go in `workshop_presets/` next to the
+  scripts. WAV files remain excluded from Git.
+- **Q / Escape:** quit (Escape closes a dialog first).
+
+The waveform and peak indicator show the current generated audio. If no audio
+output is available, preset editing and WAV export still work. This workshop
+saves reusable JSON presets. Load one into the sign with `--sound-preset` as
+shown below.
+
+### Use a workshop preset on the sign
+
+Save a preset in the workshop (for example, `my-clatter`), then run:
+
+```sh
+.venv/bin/python main.py --sound-preset workshop_presets/my-clatter.json
+```
+
+The sign automatically loads every valid JSON preset in `workshop_presets/`
+at startup. Run `.venv/bin/python main.py` and use Up/Down: the five built-in
+sounds come first, then your workshop presets from **6** onward in filename
+order. The label shows `CUSTOM: filename` and the total number of sounds.
+Press G if the labels are hidden. Restart after saving new workshop presets.
+
+The optional `--sound-preset` flag selects that preset immediately; it can also
+load a JSON file outside the presets folder. M still mutes/unmutes. Invalid
+automatically discovered files are skipped with a warning; an invalid explicitly
+requested preset produces an error.
+
+The sign uses the saved brightness, noise/body balance, pitch, decay, volume,
+and seed to generate twelve click variations. Each click follows a visible
+letter flip. Workshop density, timing irregularity, and full-update mode do
+not control the sign's animation; use **Single flip** in the workshop to hear
+the individual impact you are transferring. The first generated variation
+matches that preview. Preset edits take effect when you restart the sign.
+Quote the path if it contains spaces. WAV export is not needed.
+
+For a headless preview: `.venv/bin/python sound_workshop.py --snapshot /tmp/workshop.png`.
+Run checks with `.venv/bin/python -m unittest discover -s tests -v`.
+
 Standalone flip-dot audio generator:
 
 ```sh
